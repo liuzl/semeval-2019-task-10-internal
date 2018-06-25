@@ -1,5 +1,9 @@
-import re
+#!/usr/bin/env python
+import sys
+import os
+import os.path
 import json
+import re
 
 def isNumeric(string):
     try:
@@ -42,7 +46,13 @@ def isCorrect(gold, candidate, margin_of_error = 0.01):
             return float(candidate) > lbound and float(candidate) < ubound
         except ValueError:
             return False
+    elif re.search('\\\\frac\s*\{([\s\d]+)\}\{([\s\d]+)\}', gold) is not None:
+        m = re.search('\\\\frac\s*\{([\s\d]+)\}\{([\s\d]+)\}',  gold)
+        numer = float(m.group(1))
+        denom = float(m.group(2))
+        return isCorrect(str(numer/denom), candidate, margin_of_error)    
     return False
+
 
 
 def rawNumbers(gold_answers, answers):
@@ -79,32 +89,39 @@ def score(gold_file, candidate_file, output_file, tag):
         outhandle.write('penalized_accuracy: {}\n'.format(penal_acc))
 
 
-assert(isCorrect('A', 'A'))
-assert(isCorrect('A', 'a'))
-assert(isCorrect('E', 'E'))
-assert(not(isCorrect('B', 'E')))
-
-assert(isCorrect('0.55', '0.55'))
-assert(not(isCorrect('0.55', '0.65')))
-assert(not(isCorrect('0.55', '0.45')))
-
-assert(isCorrect('2 OR 3', '3'))
-assert(not(isCorrect('2 OR 3', '4')))
-assert(isCorrect('2.4 OR 3.5 OR 5.4', '5.4'))
-assert(isCorrect('2.4 OR 3.5 OR 5.4', '2.4'))
-assert(not(isCorrect('2.4 OR 3.5 OR 5.4', '3.4')))
-
-assert(isCorrect('(2, 4.2)', '3'))
-assert(not(isCorrect(' (2, 4.2)', '4.3')))
-assert(not(isCorrect('(a, 4.2', '3')))
-assert(not(isCorrect('(a, 4.2)', '3')))
-
-#!/usr/bin/env python
-import sys
-import os
-import os.path
-
-
+def test():
+    assert(isCorrect('A', 'A'))
+    assert(isCorrect('A', 'a'))
+    assert(isCorrect('E', 'E'))
+    assert(not(isCorrect('B', 'E')))
+    
+    assert(isCorrect('0.55', '0.55'))
+    assert(not(isCorrect('0.55', '0.65')))
+    assert(not(isCorrect('0.55', '0.45')))
+    
+    assert(isCorrect('2 OR 3', '3'))
+    assert(not(isCorrect('2 OR 3', '4')))
+    assert(isCorrect('2.4 OR 3.5 OR 5.4', '5.4'))
+    assert(isCorrect('2.4 OR 3.5 OR 5.4', '2.4'))
+    assert(not(isCorrect('2.4 OR 3.5 OR 5.4', '3.4')))
+    
+    assert(isCorrect('(2, 4.2)', '3'))
+    assert(not(isCorrect(' (2, 4.2)', '4.3')))
+    assert(not(isCorrect('(a, 4.2', '3')))
+    assert(not(isCorrect('(a, 4.2)', '3')))
+    
+    assert(isCorrect('\\(\\frac{3}{4}\\)', '0.75'))
+    assert(not(isCorrect('\\(\\frac{3}{4}\\)', '0.7')))
+    assert(isCorrect('\\(\\frac { 3 }{ 4 } \\)', '0.75'))
+    
+    assert(isCorrect('(4, 6) OR 4 OR 6', '4.1'))
+    assert(not(isCorrect('(4, 6) OR 4 OR 6', '3.9')))
+    assert(isCorrect('(4, 6) OR 4 OR 6', '4'))
+    assert(not(isCorrect('(4, 6) OR 6', '4')))
+    
+    assert(isCorrect('\\(\\frac{3}{4}\\) OR 0.73', '0.75'))
+    assert(isCorrect('\\(\\frac{3}{4}\\) OR 0.73', '0.73'))
+    assert(not(isCorrect('\\(\\frac{3}{4}\\) OR 0.73', '0.74')))
 
 
 def main():

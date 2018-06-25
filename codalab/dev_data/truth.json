@@ -1,4 +1,13 @@
 [{
+  "id": 427,
+  "exam": "Kaplan Test Prep Practice Test 1",
+  "sectionNumber": 5,
+  "sectionLength": 18,
+  "originalQuestionNumber": 11,
+  "question": "If \\(\\frac{z + 2}{5} = 2\\), what does \\(\\frac{z + 2}{z - 2}\\) equal?",
+  "answer": "\\(\\frac{5}{3}\\)",
+  "tags": ["algebra", "closed"]
+}, {
   "id": 660,
   "exam": "Kaplan Test Prep Practice Test 5",
   "sectionNumber": 7,
