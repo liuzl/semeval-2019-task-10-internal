@@ -1,6 +1,13 @@
+import re
 import json
 
-
+def isNumeric(string):
+    try:
+        f = float(string)
+        return True
+    except ValueError:
+        return False
+    
 
 def readAnswersFromJson(filename, tag=None):
     with open(filename) as f:
@@ -14,9 +21,27 @@ def readAnswersFromJson(filename, tag=None):
             answers[datum['id']] = datum['answer']
     return answers
 
-def isCorrect(gold, candidate):
-    if gold == candidate:
-        return True
+def isCorrect(gold, candidate, margin_of_error = 0.01):
+    letter_options = set(['A', 'B', 'C', 'D', 'E'])
+    if gold.upper() in letter_options:
+        return candidate.upper() == gold.upper()
+    elif isNumeric(gold):
+        if isNumeric(candidate):
+            return abs(float(gold) - float(candidate)) < margin_of_error
+        else:
+            return False
+    elif ' OR ' in gold:
+        options = gold.split(' OR ')
+        correctness = [isCorrect(opt, candidate, margin_of_error) for opt in options]
+        return True in correctness
+    elif re.search('\((.*),(.*)\)', gold) is not None:        
+        m = re.search('\((.*),(.*)\)', gold)
+        try:
+            lbound = float(m.group(1))
+            ubound = float(m.group(2))
+            return float(candidate) > lbound and float(candidate) < ubound
+        except ValueError:
+            return False
     return False
 
 
@@ -53,6 +78,26 @@ def score(gold_file, candidate_file, output_file, tag):
         outhandle.write('accuracy: {}\n'.format(acc))
         outhandle.write('penalized_accuracy: {}\n'.format(penal_acc))
 
+
+assert(isCorrect('A', 'A'))
+assert(isCorrect('A', 'a'))
+assert(isCorrect('E', 'E'))
+assert(not(isCorrect('B', 'E')))
+
+assert(isCorrect('0.55', '0.55'))
+assert(not(isCorrect('0.55', '0.65')))
+assert(not(isCorrect('0.55', '0.45')))
+
+assert(isCorrect('2 OR 3', '3'))
+assert(not(isCorrect('2 OR 3', '4')))
+assert(isCorrect('2.4 OR 3.5 OR 5.4', '5.4'))
+assert(isCorrect('2.4 OR 3.5 OR 5.4', '2.4'))
+assert(not(isCorrect('2.4 OR 3.5 OR 5.4', '3.4')))
+
+assert(isCorrect('(2, 4.2)', '3'))
+assert(not(isCorrect(' (2, 4.2)', '4.3')))
+assert(not(isCorrect('(a, 4.2', '3')))
+assert(not(isCorrect('(a, 4.2)', '3')))
 
 #!/usr/bin/env python
 import sys
