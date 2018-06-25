@@ -32,16 +32,20 @@ phases:
         max_submissions: 999
         scoring_program: scoring_program.zip
         reference_data: test_data.zip
-        auto_migration: True
         leaderboard_management_mode: default
 leaderboard:
-    leaderboards:
-        RESULTS: &RESULTS
-            label: Results
-            rank: 1
-    columns:
-        correct:
-            leaderboard: *RESULTS
-            label: correct
-            rank: 1
-            numeric_format: 1
+  columns:
+    accuracy:
+      label: Accuracy
+      leaderboard: &id001
+        label: Results
+        rank: 1
+      rank: 1
+      sort: desc
+    penalized_accuracy:
+      label: Penalized Accuracy
+      leaderboard: *id001
+      rank: 2
+      sort: desc
+  leaderboards:
+    Results: *id001
