@@ -74,7 +74,7 @@ def accuracy(correct, incorrect, abstain):
     total = correct + incorrect + abstain
     return correct/float(total)
 
-def penalizedAccuracy(correct, incorrect, abstain, penalty = 0.2):
+def penalizedAccuracy(correct, incorrect, abstain, penalty = 0.25):
     total = correct + incorrect + abstain
     return (correct - incorrect * penalty) / float(total)
 

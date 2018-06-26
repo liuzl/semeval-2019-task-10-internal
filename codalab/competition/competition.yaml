@@ -1,5 +1,5 @@
-title: Sample Competition for SemEval-2017
-description: This is a sample competition that requires a submission of "Hello World!".
+title: SemEval 2019, Task 10 -- Math Question Answering
+description: Evaluates question answering systems on their ability to solve Math SAT questions.
 image: semeval-logo.png
 has_registration: True
 allow_teams: True
