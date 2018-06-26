@@ -11,24 +11,32 @@ html:
 phases:
     1:
         phasenumber: 1
-        label: "Practice"
-        start_date: 2017-06-01
+        label: "Trial"
+        start_date: 2018-06-26
         max_submissions: 999
         scoring_program: scoring_program.zip
         reference_data: dev_data.zip
         leaderboard_management_mode: default
     2:
         phasenumber: 2
+        label: "Practice"
+        start_date: 2018-09-17
+        max_submissions: 999
+        scoring_program: scoring_program.zip
+        reference_data: dev_data.zip
+        leaderboard_management_mode: default
+    3:
+        phasenumber: 3
         label: "Evaluation"
-        start_date: 2018-01-08
+        start_date: 2019-01-10
         max_submissions: 1
         scoring_program: scoring_program.zip
         reference_data: test_data.zip
         leaderboard_management_mode: hide_results
-    3:
-        phasenumber: 3
+    4:
+        phasenumber: 4
         label: "Post-Evaluation"
-        start_date: 2018-01-30
+        start_date: 2019-01-24
         max_submissions: 999
         scoring_program: scoring_program.zip
         reference_data: test_data.zip
