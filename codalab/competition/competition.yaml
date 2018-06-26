@@ -44,16 +44,36 @@ phases:
 leaderboard:
   columns:
     accuracy:
-      label: Accuracy
+      label: Accuracy (overall)
       leaderboard: &id001
         label: Results
         rank: 1
       rank: 1
       sort: desc
     penalized_accuracy:
-      label: Penalized Accuracy
+      label: Penalized Accuracy (overall)
       leaderboard: *id001
       rank: 2
+      sort: desc
+    closed_accuracy:
+      label: Accuracy (closed)
+      leaderboard: *id001
+      rank: 3
+      sort: desc
+    closed_penalized_accuracy:
+      label: Penalized Accuracy (closed)
+      leaderboard: *id001
+      rank: 4
+      sort: desc
+    open_accuracy:
+      label: Accuracy (open)
+      leaderboard: *id001
+      rank: 5
+      sort: desc
+    open_penalized_accuracy:
+      label: Penalized Accuracy (open)
+      leaderboard: *id001
+      rank: 6
       sort: desc
   leaderboards:
     Results: *id001
