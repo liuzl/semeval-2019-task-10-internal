@@ -1,4 +1,13 @@
 [{
+  "id": 427,
+  "exam": "Kaplan Test Prep Practice Test 1",
+  "sectionNumber": 5,
+  "sectionLength": 18,
+  "originalQuestionNumber": 11,
+  "question": "If \\(\\frac{z + 2}{5} = 2\\), what does \\(\\frac{z + 2}{z - 2}\\) equal?",
+  "answer": "\\(\\frac{5}{3}\\)",
+  "tags": ["algebra", "closed"]
+}, {
   "id": 660,
   "exam": "Kaplan Test Prep Practice Test 5",
   "sectionNumber": 7,
@@ -78,4 +87,22 @@
   "question": "The total cost of a car rental is the sum of (1) a basic fixed rental charge for the car; and (2) an additional charge for every 25 miles traveled. If the total cost to rent a car and drive it 50 miles is $200, and the total cost to rent a car and drive it 200 miles is $245, what is the total cost to rent a car and travel 450 miles? (Disregard the $ sign when gridding your answer. If, for example, your answer is $1.37, grid 1.37.)",
   "answer": "320",
   "tags": ["algebra", "open"]
-}]
+},    {
+        "answer": "41 OR 43 OR 45 OR 47",
+        "exam": "PrincetonReview2015",
+        "id": 4896,
+        "originalQuestionNumber": 16,
+        "question": "If \\(2452 = 60q + 52r\\), and \\(q\\) and \\(r\\) are positive integers, what is one possible value for \\(q + r\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": ["closed"]
+    },    {
+        "answer": "(0, 1.33)",
+        "exam": "PrincetonReview2015",
+        "id": 4982,
+        "originalQuestionNumber": 14,
+        "question": "If \\(|2 - 3y| < 2\\), what is one possible value of \\(y\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 3,
+        "tags": ["closed"]
+    }]
