@@ -74,11 +74,11 @@ def accuracy(correct, incorrect, abstain):
     total = correct + incorrect + abstain
     return correct/float(total)
 
-def penalizedAccuracy(correct, incorrect, abstain, penalty = 0.25):
+def penalizedAccuracy(correct, incorrect, abstain, penalty = 0.2):
     total = correct + incorrect + abstain
     return (correct - incorrect * penalty) / float(total)
 
-def score(gold_file, candidate_file, output_file, tag):
+def scoreOld(gold_file, candidate_file, output_file, tag):
     gold_answers = readAnswersFromJson(gold_file, tag)
     answers = readAnswersFromJson(candidate_file)
     correct, incorrect, abstain = rawNumbers(gold_answers, answers)
@@ -88,40 +88,62 @@ def score(gold_file, candidate_file, output_file, tag):
         outhandle.write('accuracy: {}\n'.format(acc))
         outhandle.write('penalized_accuracy: {}\n'.format(penal_acc))
 
+def score(gold_file, candidate_file, output_file):
+    answers = readAnswersFromJson(candidate_file)
+    acc = dict()
+    penal_acc = dict()
+    for tag in ['closed', 'open', 'geometry']:
+        gold_answers = readAnswersFromJson(gold_file, tag)
+        correct, incorrect, abstain = rawNumbers(gold_answers, answers)
+        acc[tag] = accuracy(correct, incorrect, abstain)
+        penal_acc[tag] = penalizedAccuracy(correct, incorrect, abstain)
+    gold_answers = readAnswersFromJson(gold_file, None)
+    correct, incorrect, abstain = rawNumbers(gold_answers, answers)
+    acc['all'] = accuracy(correct, incorrect, abstain)
+    penal_acc['all'] = penalizedAccuracy(correct, incorrect, abstain)
+    with open(output_file, 'w') as outhandle:
+        outhandle.write('accuracy: {}\n'.format(acc['all']))
+        outhandle.write('penalized_accuracy: {}\n'.format(penal_acc['all']))
+        outhandle.write('closed_accuracy: {}\n'.format(acc['closed']))
+        outhandle.write('closed_penalized_accuracy: {}\n'.format(penal_acc['closed']))
+        outhandle.write('open_accuracy: {}\n'.format(acc['open']))
+        outhandle.write('open_penalized_accuracy: {}\n'.format(penal_acc['open']))
+        outhandle.write('geo_accuracy: {}\n'.format(acc['geometry']))
+        outhandle.write('geo_penalized_accuracy: {}\n'.format(penal_acc['geometry']))
 
-def test():
-    assert(isCorrect('A', 'A'))
-    assert(isCorrect('A', 'a'))
-    assert(isCorrect('E', 'E'))
-    assert(not(isCorrect('B', 'E')))
-    
-    assert(isCorrect('0.55', '0.55'))
-    assert(not(isCorrect('0.55', '0.65')))
-    assert(not(isCorrect('0.55', '0.45')))
-    
-    assert(isCorrect('2 OR 3', '3'))
-    assert(not(isCorrect('2 OR 3', '4')))
-    assert(isCorrect('2.4 OR 3.5 OR 5.4', '5.4'))
-    assert(isCorrect('2.4 OR 3.5 OR 5.4', '2.4'))
-    assert(not(isCorrect('2.4 OR 3.5 OR 5.4', '3.4')))
-    
-    assert(isCorrect('(2, 4.2)', '3'))
-    assert(not(isCorrect(' (2, 4.2)', '4.3')))
-    assert(not(isCorrect('(a, 4.2', '3')))
-    assert(not(isCorrect('(a, 4.2)', '3')))
-    
-    assert(isCorrect('\\(\\frac{3}{4}\\)', '0.75'))
-    assert(not(isCorrect('\\(\\frac{3}{4}\\)', '0.7')))
-    assert(isCorrect('\\(\\frac { 3 }{ 4 } \\)', '0.75'))
-    
-    assert(isCorrect('(4, 6) OR 4 OR 6', '4.1'))
-    assert(not(isCorrect('(4, 6) OR 4 OR 6', '3.9')))
-    assert(isCorrect('(4, 6) OR 4 OR 6', '4'))
-    assert(not(isCorrect('(4, 6) OR 6', '4')))
-    
-    assert(isCorrect('\\(\\frac{3}{4}\\) OR 0.73', '0.75'))
-    assert(isCorrect('\\(\\frac{3}{4}\\) OR 0.73', '0.73'))
-    assert(not(isCorrect('\\(\\frac{3}{4}\\) OR 0.73', '0.74')))
+        
+assert(isCorrect('A', 'A'))
+assert(isCorrect('A', 'a'))
+assert(isCorrect('E', 'E'))
+assert(not(isCorrect('B', 'E')))
+
+assert(isCorrect('0.55', '0.55'))
+assert(not(isCorrect('0.55', '0.65')))
+assert(not(isCorrect('0.55', '0.45')))
+
+assert(isCorrect('2 OR 3', '3'))
+assert(not(isCorrect('2 OR 3', '4')))
+assert(isCorrect('2.4 OR 3.5 OR 5.4', '5.4'))
+assert(isCorrect('2.4 OR 3.5 OR 5.4', '2.4'))
+assert(not(isCorrect('2.4 OR 3.5 OR 5.4', '3.4')))
+
+assert(isCorrect('(2, 4.2)', '3'))
+assert(not(isCorrect(' (2, 4.2)', '4.3')))
+assert(not(isCorrect('(a, 4.2', '3')))
+assert(not(isCorrect('(a, 4.2)', '3')))
+
+assert(isCorrect('\\(\\frac{3}{4}\\)', '0.75'))
+assert(not(isCorrect('\\(\\frac{3}{4}\\)', '0.7')))
+assert(isCorrect('\\(\\frac { 3 }{ 4 } \\)', '0.75'))
+
+assert(isCorrect('(4, 6) OR 4 OR 6', '4.1'))
+assert(not(isCorrect('(4, 6) OR 4 OR 6', '3.9')))
+assert(isCorrect('(4, 6) OR 4 OR 6', '4'))
+assert(not(isCorrect('(4, 6) OR 6', '4')))
+
+assert(isCorrect('\\(\\frac{3}{4}\\) OR 0.73', '0.75'))
+assert(isCorrect('\\(\\frac{3}{4}\\) OR 0.73', '0.73'))
+assert(not(isCorrect('\\(\\frac{3}{4}\\) OR 0.73', '0.74')))
 
 
 def main():
@@ -146,7 +168,7 @@ def main():
     truth_path = os.path.join(input_dir, 'ref', 'truth.json')
     output_path = os.path.join(output_dir, 'scores.txt')
    
-    score(truth_path, submission_path, output_path, None)
+    score(truth_path, submission_path, output_path)
 
 if __name__ == "__main__":
     main()
