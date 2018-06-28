@@ -180,26 +180,6 @@
         "tags": []
     },
     {
-        "answer": "B",
-        "choices": {
-            "A": "35",
-            "B": "40",
-            "C": "45",
-            "D": "50",
-            "E": "55"
-        },
-        "diagramRef": "diagram1084.eps",
-        "exam": "source2",
-        "id": 10010,
-        "originalQuestionNumber": 20,
-        "question": "In the figure above, quadrilateral \\(ABCD\\) is a rectangle such that \\(E\\) is the midpoint of \\(AD\\), \\(F\\) is the midpoint of \\(CD\\) and \\(EG\\), \\(AB = 10\\) and \\(BC = 24\\). What is the perimeter of quadrilateral \\(DFGH\\)?",
-        "sectionLength": 20,
-        "sectionNumber": 3,
-        "tags": [
-            "geometry"
-        ]
-    },
-    {
         "answer": "A",
         "choices": {
             "A": "2",
@@ -3169,24 +3149,6 @@
         ]
     },
     {
-        "answer": "C",
-        "choices": {
-            "A": "12",
-            "B": "14",
-            "C": "16",
-            "D": "18",
-            "E": "20"
-        },
-        "diagramRef": "diagram451.eps",
-        "exam": "source2",
-        "id": 10177,
-        "originalQuestionNumber": 8,
-        "question": "In the figure above, the area of circle A : the area of circle B : the area of circle C is 9:1:9. If the radius of circle B is 2, what is the length of \\(\\overline { AC } \\)?",
-        "sectionLength": 16,
-        "sectionNumber": 7,
-        "tags": []
-    },
-    {
         "answer": "A",
         "choices": {
             "A": "\\(\\frac { d } { 2\\sqrt { 2 } } \\)",
@@ -3205,16 +3167,6 @@
         "tags": [
             "geometry"
         ]
-    },
-    {
-        "answer": "24",
-        "exam": "source2",
-        "id": 10179,
-        "originalQuestionNumber": 17,
-        "question": "\\begin { gather* } B, B, B, G, G \\end { gather* } Three boys and two girls shown above are lined up side by side in a single row so that boys and girls arc lined up in groups respectively. How many different arrangements arc possible?",
-        "sectionLength": 18,
-        "sectionNumber": 5,
-        "tags": []
     },
     {
         "answer": "B",
@@ -5028,17 +4980,6 @@
         "tags": [
             "closed"
         ]
-    },
-    {
-        "answer": "360",
-        "diagramRef": "diagram314.eps",
-        "exam": "source2",
-        "id": 10281,
-        "originalQuestionNumber": 18,
-        "question": "In the figure above, the formula for the surface area S of a regular pyramid is \\(S = \\frac { 1 } { 2 } P\\ell + B\\), where P is the perimeter of the base, \\(\\ell\\) is the slant height (PQ shown in the figure), and B is the area of the base. If the length of a side of the square is 10 and the height of the pyramid is 12, what is the value of \\(S\\)?",
-        "sectionLength": 18,
-        "sectionNumber": 5,
-        "tags": []
     },
     {
         "answer": "21",
@@ -8004,18 +7945,6 @@
         ]
     },
     {
-        "answer": "8",
-        "exam": "source2",
-        "id": 10451,
-        "originalQuestionNumber": 9,
-        "question": "If \\(a^3 = 64\\), what is the value of \\(a^ { \\frac { 3 } { 2 } } \\) ?",
-        "sectionLength": 18,
-        "sectionNumber": 5,
-        "tags": [
-            "closed"
-        ]
-    },
-    {
         "answer": "D",
         "choices": {
             "A": "10",
@@ -10774,24 +10703,6 @@
         "tags": [
             "closed"
         ]
-    },
-    {
-        "answer": "E",
-        "choices": {
-            "A": "\\(x^2 + xy\\)",
-            "B": "\\(x^2 + 4y^2\\)",
-            "C": "\\(x^2 + xy + 4y^2\\)",
-            "D": "\\((x + 2y)^2\\)",
-            "E": "\\(x^2 + 2xy + 4y^2 \\)"
-        },
-        "diagramRef": "diagram896.eps",
-        "exam": "source2",
-        "id": 10610,
-        "originalQuestionNumber": 16,
-        "question": "In the figure above, the length of \\(\\overline { AB } \\), a side of the square, is \\(x\\) and the length of \\(\\overline { FG } \\) is \\(2y\\). Which of the following represents the area of the figure \\(ABCDEFG\\)?",
-        "sectionLength": 20,
-        "sectionNumber": 3,
-        "tags": []
     },
     {
         "answer": "C",
@@ -14361,25 +14272,6 @@
         ]
     },
     {
-        "answer": "C",
-        "choices": {
-            "A": "13",
-            "B": "17",
-            "C": "19",
-            "D": "21",
-            "E": "23"
-        },
-        "exam": "source2",
-        "id": 10816,
-        "originalQuestionNumber": 14,
-        "question": "If the median of 12 consecutive odd integers is 30, what is the smallest integer among these integers?",
-        "sectionLength": 20,
-        "sectionNumber": 3,
-        "tags": [
-            "closed"
-        ]
-    },
-    {
         "answer": "A",
         "choices": {
             "A": "\\(\\frac { 1 } { 6 } \\)",
@@ -14943,26 +14835,6 @@
         "sectionNumber": 4,
         "tags": [
             "open"
-        ]
-    },
-    {
-        "answer": "C",
-        "choices": {
-            "A": "70",
-            "B": "72.5",
-            "C": "75",
-            "D": "77.5",
-            "E": "80"
-        },
-        "diagramRef": "diagram283.eps",
-        "exam": "source2",
-        "id": 10851,
-        "originalQuestionNumber": 15,
-        "question": "The scatter plot above shows the results of ten students on their two math tests. What is the median score on test \\(f\\)?",
-        "sectionLength": 20,
-        "sectionNumber": 3,
-        "tags": [
-            "other"
         ]
     },
     {
@@ -16502,24 +16374,6 @@
         ]
     },
     {
-        "answer": "B",
-        "choices": {
-            "A": "\\(\\frac { 2 } { 5 } \\)",
-            "B": "\\(\\frac { 8 } { 25 } \\)",
-            "C": "\\(\\frac { 9 } { 25 } \\)",
-            "D": "\\(\\frac { 3 } { 5 } \\)",
-            "E": "\\(\\frac { 12 } { 25 } \\)"
-        },
-        "diagramRef": "diagram855.eps",
-        "exam": "source2",
-        "id": 10939,
-        "originalQuestionNumber": 7,
-        "question": "The figure above shows three squares of different sizes. The lengths of the edge of each square are 5, 3, and 1 respectively. If a point is chosen from the square \\(ABCD\\), what is the probability that the point will be chosen from the shaded region?",
-        "sectionLength": 20,
-        "sectionNumber": 3,
-        "tags": []
-    },
-    {
         "answer": "C",
         "choices": {
             "A": "0",
@@ -16551,26 +16405,6 @@
         "id": 10941,
         "originalQuestionNumber": 4,
         "question": "If the length of one side of a triangle is 6 and the length of another side is 2, which of the following CANNOT be the length of the third side of the triangle?",
-        "sectionLength": 20,
-        "sectionNumber": 3,
-        "tags": [
-            "geometry"
-        ]
-    },
-    {
-        "answer": "D",
-        "choices": {
-            "A": "\\(a > 0\\) and \\(b > 0\\)",
-            "B": "\\(a > 0\\) and \\(b < 0\\)",
-            "C": "\\(a < 0\\) and \\(b > 0\\)",
-            "D": "\\(a < 0\\) and \\(b < 0\\)",
-            "E": "\\(a < 0\\), \\(b < 0\\) and \\(c > 0\\)"
-        },
-        "diagramRef": "diagram364.eps",
-        "exam": "source2",
-        "id": 10942,
-        "originalQuestionNumber": 19,
-        "question": "The figure above shows the graph of the function \\(f\\) defined by \\(f(x) = ax^2 + bx + c\\). Which of the following could be true?",
         "sectionLength": 20,
         "sectionNumber": 3,
         "tags": [
@@ -17863,25 +17697,6 @@
         ]
     },
     {
-        "answer": "A",
-        "choices": {
-            "A": "1",
-            "B": "2",
-            "C": "3",
-            "D": "4",
-            "E": "5"
-        },
-        "exam": "source2",
-        "id": 11017,
-        "originalQuestionNumber": 17,
-        "question": "Let the operation \\(\\odot\\) be defined by \\(a \\odot b = \\frac { ab } { a + b } \\) for all positive values of a and b. If \\(\\frac { 1 } { a } \\odot \\frac { 1 } { b } = \\frac { 1 } { 2 } \\)and \\(a \\odot \\frac { 1 } { a } = \\frac { 1 } { 2 } \\), what is the value of \\(b\\)?",
-        "sectionLength": 20,
-        "sectionNumber": 3,
-        "tags": [
-            "closed"
-        ]
-    },
-    {
         "answer": "D",
         "choices": {
             "A": "15",
@@ -18093,18 +17908,6 @@
         "question": "If \\(x^{\\frac{1}{2}} = 4\\), then what is the value of \\(x^2\\)?",
         "sectionLength": 16,
         "sectionNumber": 7,
-        "tags": [
-            "closed"
-        ]
-    },
-    {
-        "answer": "1 OR 2",
-        "exam": "source2",
-        "id": 11030,
-        "originalQuestionNumber": 14,
-        "question": "Let the function f be defined by \\(f(x) = \\frac { x^2 } { 3 } + 6\\). If \\(f(3m) = 9m\\), what is one possible value of \\(m\\)?",
-        "sectionLength": 18,
-        "sectionNumber": 5,
         "tags": [
             "closed"
         ]
@@ -18825,23 +18628,6 @@
         ]
     },
     {
-        "answer": "C",
-        "choices": {
-            "A": "10",
-            "B": "12",
-            "C": "14",
-            "D": "16",
-            "E": "18"
-        },
-        "exam": "source2",
-        "id": 11071,
-        "originalQuestionNumber": 2,
-        "question": "Robert earns \\$152 in 4 days. At this rate, how many days will it take him to earn \\$532?",
-        "sectionLength": 20,
-        "sectionNumber": 3,
-        "tags": []
-    },
-    {
         "answer": "B",
         "choices": {
             "A": "Carnation",
@@ -19119,24 +18905,6 @@
         "tags": [
             "closed"
         ]
-    },
-    {
-        "answer": "E",
-        "choices": {
-            "A": "diagram1631.eps",
-            "B": "diagram762.eps",
-            "C": "diagram867.eps",
-            "D": "diagram1097.eps",
-            "E": "diagram841.eps"
-        },
-        "diagramRef": "diagram1600.eps",
-        "exam": "source2",
-        "id": 11088,
-        "originalQuestionNumber": 9,
-        "question": "Which of the following graphs best represents the information in the table above?",
-        "sectionLength": 16,
-        "sectionNumber": 7,
-        "tags": []
     },
     {
         "answer": "486",
@@ -20206,25 +19974,6 @@
         ]
     },
     {
-        "answer": "D",
-        "choices": {
-            "A": "\\(|k| > 20\\)",
-            "B": "\\(|k - 5| < 15\\)",
-            "C": "\\(|k + 5| < 15\\)",
-            "D": "\\(|k + 5| > 15\\)",
-            "E": "\\(|k - 5| > 15\\)"
-        },
-        "exam": "source2",
-        "id": 11152,
-        "originalQuestionNumber": 13,
-        "question": "If k > 10 or k < -20, which of the following is equivalent to the interval of k?",
-        "sectionLength": 16,
-        "sectionNumber": 7,
-        "tags": [
-            "closed"
-        ]
-    },
-    {
         "answer": "A",
         "choices": {
             "A": "250",
@@ -20887,26 +20636,6 @@
         "tags": []
     },
     {
-        "answer": "D",
-        "choices": {
-            "A": "9",
-            "B": "12",
-            "C": "18",
-            "D": "27",
-            "E": "54"
-        },
-        "diagramRef": "diagram484.eps",
-        "exam": "source2",
-        "id": 11190,
-        "originalQuestionNumber": 14,
-        "question": "The figure above shows the graph of \\(y = (1 + x)(5- x)\\). If \\(\\triangle { ABC } \\) is an isosceles, what is the area of \\(\\triangle { ABC } \\)?",
-        "sectionLength": 16,
-        "sectionNumber": 7,
-        "tags": [
-            "geometry"
-        ]
-    },
-    {
         "answer": "E",
         "choices": {
             "A": "xyz",
@@ -21260,25 +20989,6 @@
         ]
     },
     {
-        "answer": "E",
-        "choices": {
-            "A": "\\(\\frac { 100d } { k } \\)",
-            "B": "\\(\\frac { 6d } { k } \\)",
-            "C": "\\(\\frac { 100 } { kd } \\)",
-            "D": "\\(\\frac { 600k } { d } \\)",
-            "E": "\\(\\frac { 600d } { k } \\)"
-        },
-        "exam": "source2",
-        "id": 11212,
-        "originalQuestionNumber": 4,
-        "question": "If a six-pack of soda costs \\(k\\) cents, how many individual cans can be purchased for \\(d\\) dollars at the same rate?",
-        "sectionLength": 18,
-        "sectionNumber": 5,
-        "tags": [
-            "open"
-        ]
-    },
-    {
         "answer": "A",
         "choices": {
             "A": "2 by 5 by 6",
@@ -21463,26 +21173,6 @@
         "sectionNumber": 8,
         "tags": [
             "open"
-        ]
-    },
-    {
-        "answer": "C",
-        "choices": {
-            "A": "\\(12\\pi\\)",
-            "B": "24",
-            "C": "\\(24\\pi\\)",
-            "D": "32",
-            "E": "\\(32\\pi\\)"
-        },
-        "diagramRef": "diagram537.eps",
-        "exam": "source2",
-        "id": 11223,
-        "originalQuestionNumber": 16,
-        "question": "In the figure above, circle \\(P\\), \\(Q\\), and \\(R\\) are internally tangent. The radius of circle \\(P\\) is \\(\\frac { 1 } { 3 } \\)of the radius of circle \\(Q\\), and the radius of circle \\(Q\\) is\\( \\frac { 3 } { 4 } \\)of the radius of circle R. If the area of circle R is \\(48\\pi\\), what is the area of the shaded region?",
-        "sectionLength": 16,
-        "sectionNumber": 7,
-        "tags": [
-            "geometry"
         ]
     },
     {
@@ -23968,22 +23658,6 @@
         ]
     },
     {
-        "answer": "D",
-        "choices": {
-            "A": "3, 6.png",
-            "B": "2.png",
-            "C": "3.png",
-            "D": "6.png"
-        },
-        "exam": "source7",
-        "id": 11364,
-        "originalQuestionNumber": 9,
-        "question": "\\begin{gather} \\sqrt{x - a} = x - 4 \\end{gather} If a = 2, what is the solution set of the equation above?",
-        "sectionLength": -1,
-        "sectionNumber": 3,
-        "tags": []
-    },
-    {
         "answer": "A",
         "choices": {
             "A": "24",
@@ -25729,24 +25403,6 @@
         ]
     },
     {
-        "answer": "D",
-        "choices": {
-            "A": "\\(y = ab\\)",
-            "B": "\\(y^2 = ab\\)",
-            "C": "\\(y^2 = b(a + b)\\)",
-            "D": "\\(y^2 = a(a + b)\\)",
-            "E": "\\(y^2 = \\sqrt { a(a + b } \\)"
-        },
-        "diagramRef": "diagram813.eps",
-        "exam": "source2",
-        "id": 11465,
-        "originalQuestionNumber": 15,
-        "question": "In the figure above if \\(BD = a\\)and \\(CD = b\\), which of the following could be used to find \\(y\\)?",
-        "sectionLength": 16,
-        "sectionNumber": 7,
-        "tags": []
-    },
-    {
         "answer": "C",
         "choices": {
             "A": "The homes have values that are close to each other.",
@@ -26700,23 +26356,6 @@
         "tags": [
             "geometry"
         ]
-    },
-    {
-        "answer": "B",
-        "choices": {
-            "A": "Line \\(m\\) has a negative slope.",
-            "B": "Line \\(m\\) has a positive slope.",
-            "C": "Line \\(m\\) has a positive x- intercept.",
-            "D": "Line \\(m\\) has a negative x- intercept.",
-            "E": "Line \\(m\\) has a positive y- intercept."
-        },
-        "exam": "source2",
-        "id": 11521,
-        "originalQuestionNumber": 16,
-        "question": "The equation of line \\(\\ell\\) is given by \\(y = -2x-5\\). If line \\(m\\) is perpendicular to line \\(\\ell\\), which of the following must be true?",
-        "sectionLength": 20,
-        "sectionNumber": 3,
-        "tags": []
     },
     {
         "answer": "A",
@@ -29827,26 +29466,6 @@
         ]
     },
     {
-        "answer": "A",
-        "choices": {
-            "A": "20",
-            "B": "40",
-            "C": "45",
-            "D": "50",
-            "E": "80"
-        },
-        "diagramRef": "diagram240.eps",
-        "exam": "source5",
-        "id": 11701,
-        "originalQuestionNumber": 4,
-        "question": "In the figure above, what is the value of \\(y\\)?",
-        "sectionLength": 20,
-        "sectionNumber": 4,
-        "tags": [
-            "geometry"
-        ]
-    },
-    {
         "answer": "D",
         "choices": {
             "A": "\\(y = \\frac { 3 } { 5 } x + 4\\)",
@@ -30196,25 +29815,6 @@
         "sectionLength": 18,
         "sectionNumber": 5,
         "tags": []
-    },
-    {
-        "answer": "B",
-        "choices": {
-            "A": "\\(4a^2\\)",
-            "B": "\\(\\frac { 1 } { 4a } \\)",
-            "C": "\\(\\frac { a } { 4 } \\)",
-            "D": "\\(4a\\)",
-            "E": "\\(\\frac { a^2 } { 4 } \\)"
-        },
-        "exam": "source2",
-        "id": 11722,
-        "originalQuestionNumber": 11,
-        "question": "If \\(k^ { -4 } = 16a^2\\), then \\(k^2 = \\)",
-        "sectionLength": 20,
-        "sectionNumber": 3,
-        "tags": [
-            "closed"
-        ]
     },
     {
         "answer": "C",
@@ -32321,25 +31921,6 @@
         "tags": []
     },
     {
-        "answer": "E",
-        "choices": {
-            "A": "100",
-            "B": "150",
-            "C": "200",
-            "D": "250",
-            "E": "300"
-        },
-        "exam": "source2",
-        "id": 11843,
-        "originalQuestionNumber": 6,
-        "question": "If the ratio of the numbers of boys to the number of girls in a certain group is \\(\\frac { 5 } { 7 } \\), which of the following could be the number of students in the group?",
-        "sectionLength": 18,
-        "sectionNumber": 5,
-        "tags": [
-            "open"
-        ]
-    },
-    {
         "answer": "C",
         "choices": {
             "A": "1",
@@ -32899,26 +32480,6 @@
         "question": "If the length of one side of a triangle is 5, which of the following CANNOT be the lengths of the other two sides of the triangle?",
         "sectionLength": 18,
         "sectionNumber": 5,
-        "tags": [
-            "geometry"
-        ]
-    },
-    {
-        "answer": "A",
-        "choices": {
-            "A": "-2",
-            "B": "-1",
-            "C": "0",
-            "D": "1",
-            "E": "2"
-        },
-        "diagramRef": "diagram342.eps",
-        "exam": "source2",
-        "id": 11876,
-        "originalQuestionNumber": 5,
-        "question": "The figure above shows the graph of the function \\(g\\). If \\(g( k) = 4\\), what is the value of \\(g(\\frac { k } { 2 } )\\)?",
-        "sectionLength": 16,
-        "sectionNumber": 7,
         "tags": [
             "geometry"
         ]
@@ -34281,24 +33842,6 @@
         "tags": [
             "geometry"
         ]
-    },
-    {
-        "answer": "C",
-        "choices": {
-            "A": "diagram1277.eps",
-            "B": "diagram801.eps",
-            "C": "diagram522.eps",
-            "D": "diagram177.eps",
-            "E": "diagram1169.eps"
-        },
-        "diagramRef": "diagram1317.eps",
-        "exam": "source2",
-        "id": 11956,
-        "originalQuestionNumber": 11,
-        "question": "Which of the following graphs best represents the information in the table above?",
-        "sectionLength": 16,
-        "sectionNumber": 7,
-        "tags": []
     },
     {
         "answer": "E",
@@ -35672,25 +35215,6 @@
         ]
     },
     {
-        "answer": "A",
-        "choices": {
-            "A": "\\(15.5\\%\\)",
-            "B": "\\(15\\%\\)",
-            "C": "\\(14.5\\%\\)",
-            "D": "\\(14\\%\\)",
-            "E": "\\(12.5\\%\\)"
-        },
-        "exam": "source2",
-        "id": 12037,
-        "originalQuestionNumber": 9,
-        "question": "The price of a postage-stamp was first increased by 10 percent and then the new price was increased again by 5 percent. By what percent was the final price increased from the initial price?",
-        "sectionLength": 16,
-        "sectionNumber": 7,
-        "tags": [
-            "open"
-        ]
-    },
-    {
         "answer": "D",
         "choices": {
             "A": "28",
@@ -36054,18 +35578,6 @@
         "sectionNumber": 8,
         "tags": [
             "open"
-        ]
-    },
-    {
-        "answer": "4 OR 8",
-        "exam": "source2",
-        "id": 12058,
-        "originalQuestionNumber": 12,
-        "question": "If \\(x^2 - y^2 = 15\\), where \\(x\\) and \\(y\\) are positive integers, what is one possible value of \\(x\\)?",
-        "sectionLength": 18,
-        "sectionNumber": 5,
-        "tags": [
-            "closed"
         ]
     },
     {
@@ -37302,17 +36814,6 @@
         ]
     },
     {
-        "answer": "2",
-        "diagramRef": "diagram33.eps",
-        "exam": "source2",
-        "id": 12129,
-        "originalQuestionNumber": 16,
-        "question": "In the figure above, \\(\\frac { BE } { BD } = \\frac { 2 } { 3 } \\). What is the value of the fraction \\(\\frac { area \\triangle { ABE } } { area \\triangle { AED } } \\)?",
-        "sectionLength": 18,
-        "sectionNumber": 5,
-        "tags": []
-    },
-    {
         "answer": "C",
         "choices": {
             "A": "\\((-a)^3 + b - c^2 = a\\)",
@@ -37644,25 +37145,6 @@
         "question": "If \\(a = 2b = 3c = 4d \\) and \\(abcd \\neq 0\\), what is the average (arithmetic mean) of \\(a\\), \\(b\\), and \\(c\\) in terms of \\(d\\) ?",
         "sectionLength": 20,
         "sectionNumber": 2,
-        "tags": [
-            "closed"
-        ]
-    },
-    {
-        "answer": "C",
-        "choices": {
-            "A": "0",
-            "B": "1",
-            "C": "2",
-            "D": "3",
-            "E": "4"
-        },
-        "exam": "source2",
-        "id": 12150,
-        "originalQuestionNumber": 1,
-        "question": "If \\(|4 - k^2| < 3\\), which of the following could be the value of \\(k\\)?",
-        "sectionLength": 18,
-        "sectionNumber": 5,
         "tags": [
             "closed"
         ]
