@@ -55,7 +55,7 @@ We will provide over 2500 training questions, 500 development questions, and 100
 }
 ```
 
-For more details on the JSON data format, please visit THIS PAGE.
+For more details on the JSON data format, please visit [this page](https://github.com/allenai/semeval2019-task10/blob/master/docs/dataFormat.md).
 
 ### Gold Logical Forms
 
