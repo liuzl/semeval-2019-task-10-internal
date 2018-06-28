@@ -1,4 +1,4 @@
-# The Logical Form Language for SemEval 2018, Task 10
+# The Logical Form Language for SemEval 2019, Task 10
 
 In this task, we provide gold logical form annotations (and an interpreter) for a majority of the
 closed algebra training questions. This document provides a tutorial for the logical form
