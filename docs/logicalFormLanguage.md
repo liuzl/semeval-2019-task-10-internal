@@ -106,49 +106,49 @@ particular combo meal is an empty set.
 
 
 
-#####(= x y)
+##### (= x y)
 - `x`: `Numeric`
 - `y`: `Numeric`
 - return value: `Boolean`
 
 Returns whether x and y are equal.
 
-#####(< x y)
+##### (< x y)
 - `x`: `Numeric`
 - `y`: `Numeric`
 - return value: `Boolean`
 
 Returns whether x is less than y.
 
-#####(+ x y)
+##### (+ x y)
 - `x`: `Numeric`
 - `y`: `Numeric`
 - return value: `Numeric`
 
 Returns the sum of x and y.
 
-#####(- x y)
+##### (- x y)
 - `x`: `Numeric`
 - `y`: `Numeric`
 - return value: `Numeric`
 
 Returns x minus y.
 
-#####(* x y)
+##### (* x y)
 - `x`: `Numeric`
 - `y`: `Numeric`
 - return value: `Numeric`
 
 Returns the product of x and y.
 
-#####(/ x y)
+##### (/ x y)
 - `x`: `Numeric`
 - `y`: `Numeric`
 - return value: `Numeric`
 
 Returns the (floating-point) division of x by y.
 
-#####(Pow x y)
+##### (Pow x y)
 - `x`: `Numeric`
 - `y`: `Numeric`
 - return value: `Numeric`
@@ -156,28 +156,28 @@ Returns the (floating-point) division of x by y.
 Returns x to the power of y.
 
 
-#####(Abs n)
+##### (Abs n)
 
 - `n`: `Numeric`
 - return value: `Numeric`
 
 Returns the absolute value of n.
 
-#####(And b1 b2)
+##### (And b1 b2)
 - `b1`: `Boolean`
 - `b2`: `Boolean`
 - return value: `Boolean`
 
 Returns the Boolean conjunction of `b1` and `b2`.
 
-#####(Average l)
+##### (Average l)
 
 - `l`: `List[Numeric]`
 - return value: `Numeric`
 
 Returns the average of the numbers in `l`.
 
-#####(Between n1 n2 n3)
+##### (Between n1 n2 n3)
 
 - `n1`: `Numeric`
 - `n2`: `Numeric`
@@ -186,7 +186,7 @@ Returns the average of the numbers in `l`.
 
 Returns whether `n2` < `n1` < `n3`.
 
-#####(BetweenIncl n1 n2 n3)
+##### (BetweenIncl n1 n2 n3)
 
 - `n1`: `Numeric`
 - `n2`: `Numeric`
@@ -195,7 +195,7 @@ Returns whether `n2` < `n1` < `n3`.
 
 Returns whether `n2` <= `n1` <= `n3`.
 
-#####(Consecutive s l)
+##### (Consecutive s l)
 
 - `s`: `String`
 - `l`: `List[Numeric]`
@@ -209,21 +209,21 @@ Returns whether the elements of `l` are consecutive according to the criterion `
 - `s` == "prime": Are the elements consective prime integers?
 - `s` == "k" (for some integer k): Are the elements consecutive multiples of k?
 
-#####(Cube n)
+##### (Cube n)
 
 - `n`: `Numeric`
 - return value: `Numeric`
 
 Returns the cube of n.
 
-#####(Difference l)
+##### (Difference l)
 
 - `l`: `List[Numeric]`
 - return value: `Numeric`
 
 Returns the largest element of `l` minus the smallest element.
 
-#####(DigitCount n1 n2)
+##### (DigitCount n1 n2)
 
 - `n1`: `Numeric`
 - `n2`: `Numeric`
@@ -231,7 +231,7 @@ Returns the largest element of `l` minus the smallest element.
 
 Returns whether there are exactly `n2` digits in `n1`.
 
-#####(Divides n1 n2)
+##### (Divides n1 n2)
 
 - `n1`: `Numeric`
 - `n2`: `Numeric`
@@ -239,7 +239,7 @@ Returns whether there are exactly `n2` digits in `n1`.
 
 Returns whether `n1` divides `n2` evenly.
 
-#####(DivisibleBy n1 n2)
+##### (DivisibleBy n1 n2)
 
 - `n1`: `Numeric`
 - `n2`: `Numeric`
@@ -248,7 +248,7 @@ Returns whether `n1` divides `n2` evenly.
 Returns whether `n1` is evenly divisible by `n2`.
 
 
-#####(Elements n1 ... nK)
+##### (Elements n1 ... nK)
 
 - `n1`: `Numeric`
 - `nK`: `Numeric`
@@ -256,21 +256,21 @@ Returns whether `n1` is evenly divisible by `n2`.
 
 Returns the list of numbers [`n1`, ..., `nk`]
 
-#####(Equivalent l)
+##### (Equivalent l)
 
 - `l`: `List[Numeric]`
 - return value: `Boolean`
 
 Returns whether the elements of `l` are pairwise equal.
 
-#####(Even n)
+##### (Even n)
 
 - `n`: `Numeric`
 - return value: `Boolean`
 
 Returns whether `n` is an even integer.
 
-#####(Exists v b)
+##### (Exists v b)
 
 - `v`: `Var`
 - `b`: `Boolean`
@@ -278,7 +278,7 @@ Returns whether `n` is an even integer.
 
 Returns whether `b` is true for some real assignment to `v`.
 
-#####(Forall v b)
+##### (Forall v b)
 
 - `v`: `Var`
 - `b`: `Boolean`
@@ -286,7 +286,7 @@ Returns whether `b` is true for some real assignment to `v`.
 
 Returns whether `b` is true for all real assignments to `v`.
 
-#####(GreaterThan n1 n2)
+##### (GreaterThan n1 n2)
 
 - `n1`: `Numeric`
 - `n2`: `Numeric`
@@ -295,7 +295,7 @@ Returns whether `b` is true for all real assignments to `v`.
 Returns whether `n1` > `n2`.
 
 
-#####(Increasing l)
+##### (Increasing l)
 
 - `l`: `List[Numeric]`
 - return value: `Boolean`
@@ -303,7 +303,7 @@ Returns whether `n1` > `n2`.
 Returns whether the elements of `l` appear in strictly increasing order.
 
 
-#####(Index n l)
+##### (Index n l)
 
 - `n`: `Numeric`
 - `l`: `List[Numeric]`
@@ -311,21 +311,21 @@ Returns whether the elements of `l` appear in strictly increasing order.
 
 Returns the `n`th element of `l`.
 
-#####(Max l)
+##### (Max l)
 
 - `l`: `List[Numeric]`
 - return value: `Numeric`
 
 Returns the maximal element of `l`.
 
-#####(Median l)
+##### (Median l)
 
 - `l`: `List[Numeric]`
 - return value: `Numeric`
 
 Returns the median element of `l`.
 
-#####(MemberOf n l)
+##### (MemberOf n l)
 
 - `n`: `Numeric`
 - `l`: `List[Numeric]`
@@ -333,90 +333,90 @@ Returns the median element of `l`.
 
 Returns whether `n` is a member of `l`.
 
-#####(Min l)
+##### (Min l)
 
 - `l`: `List[Numeric]`
 - return value: `Numeric`
 
 Returns the minimal element of `l`.
 
-#####(Negative n)
+##### (Negative n)
 
 - `n`: `Numeric`
 - return value: `Boolean`
 
 Returns whether `n` is a negative number.
 
-#####(Nonzero n)
+##### (Nonzero n)
 
 - `n`: `Numeric`
 - return value: `Boolean`
 
 Returns whether `n` is a nonzero number.
 
-#####(Not b)
+##### (Not b)
 - `b`: `Boolean`
 - return value: `Boolean`
 
 Returns the Boolean negation of `b`.
 
-#####(Odd n)
+##### (Odd n)
 
 - `n`: `Numeric`
 - return value: `Boolean`
 
 Returns whether `n` is an odd integer.
 
-#####(Or b1 b2)
+##### (Or b1 b2)
 - `b1`: `Boolean`
 - `b2`: `Boolean`
 - return value: `Boolean`
 
 Returns the Boolean disjunction of `b1` and `b2`.
 
-#####(Positive n)
+##### (Positive n)
 
 - `n`: `Numeric`
 - return value: `Boolean`
 
 Returns whether `n` is a positive number.
 
-#####(Prime n)
+##### (Prime n)
 
 - `n`: `Numeric`
 - return value: `Boolean`
 
 Returns whether `n` is a prime number.
 
-#####(Product l)
+##### (Product l)
 
 - `l`: `List[Numeric]`
 - return value: `Numeric`
 
 Returns the product of the elements of `l`.
 
-#####(SizeIs l)
+##### (SizeIs l)
 
 - `l`: `List[Numeric]`
 - return value: `Numeric`
 
 Returns the number of elements in `l`.
 
-#####(Square n)
+##### (Square n)
 
 - `n`: `Numeric`
 - return value: `Numeric`
 
 Returns the square of `n`.
 
-#####(Sum l)
+##### (Sum l)
 
 - `l`: `List[Numeric]`
 - return value: `Numeric`
 
 Returns the sum of the elements of `l`.
 
-#####(Take n l)
+##### (Take n l)
 
 - `n`: `Numeric`
 - `l`: `List[Numeric]`
@@ -425,7 +425,7 @@ Returns the sum of the elements of `l`.
 Returns a list of the first `n` elements of `l`.
 
 
-#####(True b)
+##### (True b)
 
 - `b`: `Boolean`
 - return value: `Boolean`

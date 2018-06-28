@@ -57,16 +57,16 @@ We will provide over 2500 training questions, 500 development questions, and 100
 
 For more details on the JSON data format, please visit THIS PAGE.
 
-###Gold Logical Forms
+### Gold Logical Forms
 
 Additionally, we will provide gold logical forms for a majority of the training questions in the Closed Algebra track. These logical forms are the same language used in the paper: 
 
 Hopkins, M., Petrescu-Prahova, C., Levin, R., Le Bras, R., Herrasti, A., & Joshi, V. (2017). Beyond sentential semantic parsing: Tackling the math sat with a cascade of tree transducers. In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (pp. 795-804). [(pdf)](https://pdfs.semanticscholar.org/c22a/240d1087603664826e9aab809273ed9bff15.pdf?_ga=2.52187753.1130679049.1530133172-566539276.1446829155&_gac=1.6555398.1527028246.EAIaIQobChMI9YuywK-a2wIVlcBkCh0WKw_kEAAYASAAEgKwgPD_BwE)
 
-The logical form language is described [here](https://github.com/allenai/semeval2019-task10/docs/logicalFormLanguage.md).
+The logical form language is described [here](https://github.com/allenai/semeval2019-task10/blob/master/docs/logicalFormLanguage.md).
 Competitors are free to ignore the provided logical forms if desired. Evaluation will be based solely on a system's ability to answer questions correctly. Competitors will also be free to use additional publicly available math training questions, like AQuA or MAWPS; we ask only that competitors refrain from using additional Math SAT questions found on the web or elsewhere, to avoid potential train/test overlap.
 
-###Evaluation
+### Evaluation
 
 Evaluation will be based solely on a system's ability to answer questions correctly.
 
@@ -74,7 +74,7 @@ For each subtask, the main evaluation metric will simply be question accuracy, i
 
 While the main evaluation metric includes no penalties for guessing, we will also compute a secondary metric called penalized accuracy that implements the actual evaluation metric used to score these SATs. This metric is the number of correct questions, minus 1/4 point for each incorrect guess. We include this metric to challenge participants to investigate high-precision QA systems.
 
-###Terms and Conditions
+### Terms and Conditions
 
 By submitting results to this competition, you consent to the public release of your scores at the SemEval-2018 workshop and in the associated proceedings, at the task organizers' discretion. Scores may include, but are not limited to, automatic and manual quantitative judgments, qualitative judgments, and such other metrics at the task organizers' discretion. You accept that the ultimate decision of metric choice and score value is that of the task organizers. You further agree that the task organizers are under no obligation to release scores and that scores may be withheld if it is the task organizers' judgment that the submission was incomplete, erroneous, deceptive, or violated the letter or spirit of the competition's rules. Inclusion of a submission's scores is not an endorsement of a team or individual's submission, system, or science.
 
