@@ -52,6 +52,14 @@ def main():
         student = Conservative()
     elif student_name == 'a-guesser':
         student = ChoiceGuesser('A')
+    elif student_name == 'b-guesser':
+        student = ChoiceGuesser('B')
+    elif student_name == 'c-guesser':
+        student = ChoiceGuesser('C')
+    elif student_name == 'd-guesser':
+        student = ChoiceGuesser('D')
+    elif student_name == 'e-guesser':
+        student = ChoiceGuesser('E')
     else:
         raise ValueError('Student name not recognized: {}'.format(student_name))
 
