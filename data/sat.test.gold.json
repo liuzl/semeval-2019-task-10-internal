@@ -1,6 +1,6 @@
 [
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "6",
             "B": "9",
@@ -19,7 +19,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "a",
             "B": "b",
@@ -37,7 +37,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "8",
             "B": "12",
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "0",
             "B": "1",
@@ -75,7 +75,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "None",
             "B": "One",
@@ -94,7 +94,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(-6\\)",
             "B": "\\(-2\\)",
@@ -113,7 +113,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(y = x + 7\\)",
             "B": "\\(y = 4x - 2\\)",
@@ -131,7 +131,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(\\frac{y}{5}\\)",
             "B": "\\(\\frac{1 - 3y}{2}\\)",
@@ -150,7 +150,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "24",
             "B": "\\(16\\sqrt{2}\\) (approximately 22.63)",
@@ -170,7 +170,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "28",
             "B": "32",
@@ -189,7 +189,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{1}{3}\\)",
         "exam": "source4",
         "id": 30010,
         "originalQuestionNumber": 12,
@@ -201,7 +201,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "1",
             "B": "3",
@@ -220,7 +220,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "1.011",
             "B": "1.022",
@@ -239,7 +239,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "5",
             "B": "16",
@@ -258,7 +258,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "110",
             "B": "118",
@@ -278,7 +278,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "Six",
             "B": "Five",
@@ -296,7 +296,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "5 only",
             "B": "2 and 5 only",
@@ -315,7 +315,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(-r + s\\)",
             "B": "\\(r - s\\)",
@@ -334,7 +334,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "10",
             "B": "1",
@@ -353,7 +353,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "10",
             "B": "20",
@@ -373,7 +373,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "7.5",
             "B": "15",
@@ -392,7 +392,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-3.5\\)",
             "B": "\\(-3\\)",
@@ -412,7 +412,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "4",
             "B": "8",
@@ -430,7 +430,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{2}{3}\\)",
         "diagramRef": "diagram222.png",
         "exam": "source3",
         "id": 30023,
@@ -443,7 +443,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "12",
             "B": "24",
@@ -462,7 +462,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "6.0",
             "B": "6.2",
@@ -481,7 +481,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{35}{6}\\)",
         "exam": "source3",
         "id": 30026,
         "originalQuestionNumber": 25,
@@ -493,7 +493,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "A",
             "B": "B",
@@ -511,7 +511,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(n + 5\\)",
             "B": "\\(n + 6\\)",
@@ -530,7 +530,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "43 or 78",
         "exam": "source4",
         "id": 30029,
         "originalQuestionNumber": 33,
@@ -542,7 +542,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(-5\\)",
             "B": "\\(-4\\)",
@@ -561,7 +561,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "24",
         "exam": "source4",
         "id": 30031,
         "originalQuestionNumber": 16,
@@ -573,7 +573,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(y < 7\\)",
             "B": "\\(y > 7\\)",
@@ -592,7 +592,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{3 \\times 100}{15 + x} \\%\\)",
             "B": "\\(\\frac{(3 + x) \\times 100}{15 + x} \\%\\)",
@@ -611,7 +611,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{ab}{20}\\)",
             "B": "\\(\\frac{ab}{5}\\)",
@@ -630,7 +630,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "120",
             "B": "130",
@@ -648,7 +648,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "circle",
             "B": "square",
@@ -666,7 +666,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{26}{3}\\)",
         "exam": "source4",
         "id": 30037,
         "originalQuestionNumber": 16,
@@ -678,7 +678,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "3.5",
             "B": "6",
@@ -698,7 +698,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\$1.50",
             "B": "\\$2.00",
@@ -717,7 +717,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "2A",
             "B": "3A",
@@ -736,7 +736,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\prec 2 \\succ\\)",
             "B": "\\(\\prec 3 \\succ\\)",
@@ -755,7 +755,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "1",
             "B": "2",
@@ -774,7 +774,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "80",
             "B": "96",
@@ -793,7 +793,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "52",
             "B": "58",
@@ -813,7 +813,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "52",
             "B": "56.25",
@@ -832,7 +832,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "6",
         "exam": "source4",
         "id": 30046,
         "originalQuestionNumber": 10,
@@ -844,7 +844,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -863,7 +863,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "3",
             "B": "4",
@@ -882,7 +882,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "4",
         "exam": "source3",
         "id": 30049,
         "originalQuestionNumber": 18,
@@ -892,7 +892,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "18",
             "B": "16",
@@ -911,7 +911,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "45",
         "exam": "source4",
         "id": 30051,
         "originalQuestionNumber": 15,
@@ -923,7 +923,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(-5\\)",
             "B": "\\(-3\\)",
@@ -942,7 +942,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "63",
             "B": "65",
@@ -960,7 +960,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{d}{40}\\)",
             "B": "\\(\\frac{40}{d}\\)",
@@ -979,7 +979,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "135",
         "diagramRef": "diagram569.png",
         "exam": "source4",
         "id": 30055,
@@ -992,7 +992,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\star 146\\)",
             "B": "\\(\\star 368\\)",
@@ -1010,7 +1010,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\((16) \\cdot 5 - x \\leq 150\\)",
             "B": "\\((16) \\cdot 5 + x \\geq 150\\)",
@@ -1029,7 +1029,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "4 is in both P and Q.",
             "B": "5 is in neither P nor Q.",
@@ -1048,7 +1048,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "10",
             "B": "12",
@@ -1067,7 +1067,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(\\frac{1}{(b - 2)}\\)",
             "B": "\\(\\frac{1}{\\sqrt{(b - 2)}}\\)",
@@ -1086,7 +1086,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "109",
         "exam": "source3",
         "id": 30061,
         "originalQuestionNumber": 16,
@@ -1098,7 +1098,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "10",
         "diagramRef": "diagram1132.png",
         "exam": "source4",
         "id": 30062,
@@ -1111,7 +1111,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "40",
             "B": "50",
@@ -1131,7 +1131,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(-6\\)",
             "B": "\\(-\\frac{6}{5}\\)",
@@ -1151,7 +1151,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "If an integer is even, it is in set X.",
             "B": "If an integer is odd, it is in set X.",
@@ -1170,7 +1170,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "60",
             "B": "65",
@@ -1190,7 +1190,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(36\\pi - 9 \\sqrt 3\\)",
             "B": "\\(24\\pi - 9 \\sqrt 3\\)",
@@ -1210,7 +1210,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{1}{8}\\)",
             "B": "\\(\\frac{1}{4}\\)",
@@ -1229,7 +1229,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "20",
             "B": "25",
@@ -1249,7 +1249,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "24",
             "B": "30",
@@ -1268,7 +1268,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -1286,7 +1286,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "144",
             "B": "240",
@@ -1305,7 +1305,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -1325,7 +1325,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\$3.50",
             "B": "\\$5.50",
@@ -1344,7 +1344,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "9",
         "diagramRef": "diagram817.png",
         "exam": "source4",
         "id": 30075,
@@ -1357,7 +1357,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "Its vertex is 2 units lower than the vertex of the graph of f.",
             "B": "Its vertex is 2 units to the left of the vertex of the graph of f.",
@@ -1375,7 +1375,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "7",
             "B": "8",
@@ -1395,7 +1395,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "4",
             "B": "16",
@@ -1415,7 +1415,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(3x + 11\\)",
             "B": "\\(5x + 14\\)",
@@ -1435,7 +1435,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "Ten",
             "B": "Nine",
@@ -1455,7 +1455,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{p + 5x}{p}\\)",
             "B": "\\(\\frac{px + 5x}{p}\\)",
@@ -1474,7 +1474,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{3}{2}\\)",
             "B": "\\(\\frac{2}{3}\\)",
@@ -1494,7 +1494,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "3",
         "exam": "source4",
         "id": 30083,
         "originalQuestionNumber": 12,
@@ -1506,7 +1506,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "104",
         "diagramRef": "diagram409.png",
         "exam": "source4",
         "id": 30084,
@@ -1519,7 +1519,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "200",
             "B": "3,600",
@@ -1537,7 +1537,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "2",
             "B": "3",
@@ -1556,7 +1556,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{n}{t}\\)",
             "B": "\\(\\frac{t}{n}\\)",
@@ -1575,7 +1575,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "5",
             "B": "6",
@@ -1594,7 +1594,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "Half of the students worked more than 12 hours each.",
             "B": "One student worked exactly 15 hours.",
@@ -1612,7 +1612,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\((2, 4)\\)",
             "B": "\\((5, 0)\\)",
@@ -1631,7 +1631,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(pd + pf\\)",
             "B": "\\(fd + p\\)",
@@ -1650,7 +1650,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "Two",
             "B": "Three",
@@ -1669,7 +1669,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(4(n^2 + n + \\frac{1}{2})\\)",
             "B": "\\(2(2n + 1)^2\\)",
@@ -1688,7 +1688,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "10",
         "exam": "source3",
         "id": 30094,
         "originalQuestionNumber": 17,
@@ -1700,7 +1700,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "4",
             "B": "12",
@@ -1719,7 +1719,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "One",
             "B": "Two",
@@ -1738,7 +1738,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "56",
             "B": "128",
@@ -1758,7 +1758,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -1777,7 +1777,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "18",
         "exam": "source3",
         "id": 30099,
         "originalQuestionNumber": 23,
@@ -1789,7 +1789,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "January",
             "B": "February",
@@ -1807,7 +1807,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "10",
             "B": "15",
@@ -1826,7 +1826,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "384",
         "diagramRef": "diagram486.png",
         "exam": "source4",
         "id": 30102,
@@ -1839,7 +1839,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "8",
             "B": "10",
@@ -1859,7 +1859,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "80 and 97",
             "B": "80 and 98",
@@ -1878,7 +1878,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(3\\sqrt{3}\\) (approximately 5.20)",
             "B": "\\(4\\sqrt{2}\\) (approximately 5.66)",
@@ -1898,7 +1898,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "24",
             "B": "28",
@@ -1918,7 +1918,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "8",
             "B": "10",
@@ -1937,7 +1937,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{3x + 2}{2}\\)",
             "B": "\\(2x - 1\\)",
@@ -1957,7 +1957,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\((4, 1)\\)",
             "B": "\\((6, 1)\\)",
@@ -1977,7 +1977,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "20",
         "diagramRef": "diagram124.png",
         "exam": "source3",
         "id": 30110,
@@ -1988,7 +1988,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "January 20",
             "B": "January 21",
@@ -2007,7 +2007,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "4",
             "B": "3.5",
@@ -2025,7 +2025,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "55 degrees",
             "B": "60 degrees",
@@ -2045,7 +2045,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{1}{4}\\)",
             "B": "\\(\\frac{1}{3}\\)",
@@ -2064,7 +2064,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(n + 2\\)",
             "B": "2n",
@@ -2083,7 +2083,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "15",
             "B": "20",
@@ -2102,7 +2102,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{1}{2}\\)",
             "B": "1",
@@ -2121,7 +2121,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{5}{3}\\)",
         "exam": "source3",
         "id": 30118,
         "originalQuestionNumber": 20,
@@ -2133,7 +2133,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "13",
             "B": "14",
@@ -2153,7 +2153,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "40",
             "B": "50",
@@ -2173,7 +2173,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "24",
             "B": "36",
@@ -2192,7 +2192,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(y = \\frac{4}{3}x + 2\\)",
             "B": "\\(y = \\frac{3}{4}x + 2\\)",
@@ -2212,7 +2212,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "1, 2, 3, 8, 9, 10, 11",
             "B": "3, 4, 5, 8, 11, 12, 13",
@@ -2231,7 +2231,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{s}{c} + 2\\)",
             "B": "\\(s + 2\\)",
@@ -2250,7 +2250,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "23",
             "B": "24",
@@ -2269,7 +2269,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "15",
             "B": "24",
@@ -2288,7 +2288,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{1}{2}\\)",
             "B": "4",
@@ -2307,7 +2307,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "10",
             "B": "14",
@@ -2326,7 +2326,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "7",
             "B": "8",
@@ -2345,7 +2345,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "Two",
             "B": "Four",
@@ -2364,7 +2364,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(-4\\)",
             "B": "\\(-2\\)",
@@ -2383,7 +2383,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "3",
             "B": "4.5",
@@ -2402,7 +2402,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "0",
             "B": "3",
@@ -2421,7 +2421,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "3 to 1",
             "B": "2 to 1",
@@ -2440,7 +2440,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "20 or 50",
         "exam": "source3",
         "id": 30135,
         "originalQuestionNumber": 18,
@@ -2452,7 +2452,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "diagram597.png",
             "B": "diagram1229.png",
@@ -2470,7 +2470,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "25",
             "B": "35",
@@ -2489,7 +2489,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "8",
             "B": "32",
@@ -2508,7 +2508,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "168",
         "exam": "source4",
         "id": 30139,
         "originalQuestionNumber": 9,
@@ -2520,7 +2520,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "3.5 miles",
             "B": "4 miles",
@@ -2539,7 +2539,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "100",
         "diagramRef": "diagram1659.png",
         "exam": "source4",
         "id": 30141,
@@ -2552,7 +2552,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "15",
             "B": "20",
@@ -2572,7 +2572,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "105",
         "exam": "source3",
         "id": 30143,
         "originalQuestionNumber": 22,
@@ -2584,7 +2584,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "None",
             "B": "One",
@@ -2603,7 +2603,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "5",
             "B": "6",
@@ -2622,7 +2622,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "90",
             "B": "120",
@@ -2642,7 +2642,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "4",
             "B": "5",
@@ -2661,7 +2661,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\$60",
             "B": "\\$90",
@@ -2680,7 +2680,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "25",
         "exam": "source4",
         "id": 30149,
         "originalQuestionNumber": 18,
@@ -2692,7 +2692,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "12",
         "exam": "source4",
         "id": 30150,
         "originalQuestionNumber": 14,
@@ -2704,7 +2704,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "9",
             "B": "12",
@@ -2723,7 +2723,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{1}{5}\\)",
             "B": "\\(\\frac{6}{5}\\)",
@@ -2742,7 +2742,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "8",
             "B": "12",
@@ -2761,7 +2761,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "21.6",
         "diagramRef": "diagram1642.png",
         "exam": "source4",
         "id": 30154,
@@ -2774,7 +2774,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "Two",
             "B": "Three",
@@ -2792,7 +2792,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "2",
             "B": "3",
@@ -2812,7 +2812,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "108",
         "diagramRef": "diagram1013.png",
         "exam": "source4",
         "id": 30157,
@@ -2825,7 +2825,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "12",
             "B": "18",
@@ -2845,7 +2845,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "75",
         "exam": "source4",
         "id": 30159,
         "originalQuestionNumber": 10,
@@ -2857,7 +2857,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{9}{16}\\) meter",
             "B": "\\(\\frac{3}{5}\\) meter",
@@ -2876,7 +2876,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "80",
             "B": "64",
@@ -2895,7 +2895,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(3\\sqrt 2\\)",
             "B": "\\(3 \\sqrt 3\\)",
@@ -2915,7 +2915,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "1600",
         "exam": "source3",
         "id": 30163,
         "originalQuestionNumber": 15,
@@ -2927,7 +2927,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "45",
             "B": "50",
@@ -2947,7 +2947,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "If all wuzzles are grumpy, then all fuzzles are lumpy.",
             "B": "If no wuzzle is grumpy, then all fuzzles are lumpy.",
@@ -2966,7 +2966,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\$12.20",
             "B": "\\$12.80",
@@ -2985,7 +2985,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "1",
             "B": "2",
@@ -3005,7 +3005,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "0",
             "B": "1",
@@ -3024,7 +3024,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "2.1",
             "B": "2.3",
@@ -3043,7 +3043,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "14",
             "B": "34",
@@ -3062,7 +3062,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "9",
         "exam": "source4",
         "id": 30171,
         "originalQuestionNumber": 13,
@@ -3074,7 +3074,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "4",
             "B": "6",
@@ -3093,7 +3093,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "cars with DVD players, navigation systems, and all-wheel drive",
             "B": "cars with DVD players and all-wheel drive; but without navigation systems",
@@ -3111,7 +3111,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "108",
         "exam": "source3",
         "id": 30174,
         "originalQuestionNumber": 9,
@@ -3123,7 +3123,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(x > 85\\)",
             "B": "\\(x = 85\\)",
@@ -3142,7 +3142,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "18",
         "exam": "source4",
         "id": 30176,
         "originalQuestionNumber": 16,
@@ -3154,7 +3154,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "116",
             "B": "133",
@@ -3173,7 +3173,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{m^2}{k}\\)",
             "B": "\\(m^2 - k\\)",
@@ -3192,7 +3192,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "II only",
             "B": "III only",
@@ -3211,7 +3211,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "16",
             "B": "8",
@@ -3230,7 +3230,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "7",
         "exam": "source4",
         "id": 30181,
         "originalQuestionNumber": 17,
@@ -3242,7 +3242,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{1}{4x^2} - \\frac{3}{2}\\)",
             "B": "\\(\\frac{1}{4x^2} - \\frac{3}{4}\\)",
@@ -3261,7 +3261,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "1 to 3",
             "B": "1 to 6",
@@ -3280,7 +3280,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "diagram593.png",
             "B": "diagram1688.png",
@@ -3298,7 +3298,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "II only",
             "B": "II and III only",
@@ -3317,7 +3317,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "10",
             "B": "20",
@@ -3337,7 +3337,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "2",
             "B": "4",
@@ -3356,7 +3356,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "2",
             "B": "\\(2\\frac{1}{2}\\)",
@@ -3374,7 +3374,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "6",
             "B": "7",
@@ -3393,7 +3393,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(-288\\)",
             "B": "\\(-2\\)",
@@ -3412,7 +3412,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(r + s\\)",
             "B": "\\(r - s\\)",
@@ -3432,7 +3432,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "18",
             "B": "36",
@@ -3451,7 +3451,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(\\frac{c}{72}\\)",
             "B": "\\(\\frac{24}{c}\\)",
@@ -3470,7 +3470,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "7.5",
         "exam": "source4",
         "id": 30194,
         "originalQuestionNumber": 9,
@@ -3482,7 +3482,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "16",
             "B": "17",
@@ -3501,7 +3501,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{5}{8}\\)",
         "exam": "source4",
         "id": 30196,
         "originalQuestionNumber": 12,
@@ -3513,7 +3513,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "24 OR 26 OR 30 OR 40 OR 74",
         "diagramRef": "diagram1075.png",
         "exam": "source3",
         "id": 30197,
@@ -3526,7 +3526,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-8\\)",
             "B": "\\(-4\\)",
@@ -3545,7 +3545,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\((3, -4)\\)",
             "B": "\\((4, -6)\\)",
@@ -3565,7 +3565,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "1.5",
         "exam": "source4",
         "id": 30200,
         "originalQuestionNumber": 16,
@@ -3577,7 +3577,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "400",
         "exam": "source4",
         "id": 30201,
         "originalQuestionNumber": 16,
@@ -3589,7 +3589,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "120",
             "B": "150",
@@ -3608,7 +3608,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "diagram1576.png",
             "B": "diagram614.png",
@@ -3625,7 +3625,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{17}{3}\\)",
             "B": "\\(\\frac{19}{3}\\)",
@@ -3645,7 +3645,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "Segment \\(\\overline{AC}\\)",
             "B": "Segment \\(\\overline{AB}\\)",
@@ -3665,7 +3665,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "50",
             "B": "\\(50\\sqrt 2\\)",
@@ -3685,7 +3685,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "11",
         "exam": "source4",
         "id": 30207,
         "originalQuestionNumber": 13,
@@ -3697,7 +3697,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1:2",
             "B": "1:4",
@@ -3717,7 +3717,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(\\frac{-4x}{y^6}\\)",
             "B": "\\(\\frac{-64y^9}{x^{12}}\\)",
@@ -3736,7 +3736,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "75",
         "diagramRef": "diagram1375.png",
         "exam": "source3",
         "id": 30210,
@@ -3749,7 +3749,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{1}{2}\\)",
         "exam": "source4",
         "id": 30211,
         "originalQuestionNumber": 14,
@@ -3761,7 +3761,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "2",
             "B": "4",
@@ -3780,7 +3780,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "20",
             "B": "22",
@@ -3800,7 +3800,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "1600",
         "exam": "source3",
         "id": 30214,
         "originalQuestionNumber": 21,
@@ -3812,7 +3812,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "15",
             "B": "54",
@@ -3831,7 +3831,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "35\\%",
             "B": "40\\%",
@@ -3850,7 +3850,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "None",
             "B": "III only",
@@ -3869,7 +3869,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "None",
             "B": "One",
@@ -3888,7 +3888,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "12",
         "diagramRef": "diagram662.png",
         "exam": "source4",
         "id": 30219,
@@ -3899,7 +3899,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "12",
         "exam": "source4",
         "id": 30220,
         "originalQuestionNumber": 17,
@@ -3911,7 +3911,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(50p + 400\\)",
             "B": "\\(400 - \\frac{50}{p}\\)",
@@ -3930,7 +3930,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "7",
             "B": "12",
@@ -3949,7 +3949,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(g(x) = f(x + 1)\\)",
             "B": "\\(g(x) = f(x) + 1\\)",
@@ -3967,7 +3967,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{7}{2}\\)",
             "B": "5",
@@ -3987,7 +3987,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "3",
         "exam": "source4",
         "id": 30225,
         "originalQuestionNumber": 11,
@@ -3999,7 +3999,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "77",
             "B": "81",
@@ -4018,7 +4018,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "44",
         "diagramRef": "diagram1364.png",
         "exam": "source4",
         "id": 30227,
@@ -4031,7 +4031,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\$106.80",
             "B": "\\$118.80",
@@ -4050,7 +4050,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "diagram885.png",
             "B": "diagram1039.png",
@@ -4067,7 +4067,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\$0.25",
             "B": "\\$0.50",
@@ -4086,7 +4086,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "15",
         "exam": "source3",
         "id": 30231,
         "originalQuestionNumber": 16,
@@ -4098,7 +4098,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "32",
             "B": "48",
@@ -4118,7 +4118,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "36",
             "B": "24",
@@ -4137,7 +4137,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "30",
             "B": "60",
@@ -4156,7 +4156,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "120",
             "B": "240",
@@ -4176,7 +4176,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "1990",
             "B": "1991",
@@ -4194,7 +4194,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "39",
             "B": "42",
@@ -4214,7 +4214,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "8",
         "exam": "source4",
         "id": 30238,
         "originalQuestionNumber": 9,
@@ -4226,7 +4226,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "3",
             "B": "7",
@@ -4245,7 +4245,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "55",
             "B": "63",
@@ -4264,7 +4264,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "60",
             "B": "65",
@@ -4284,7 +4284,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "Regions M and N",
             "B": "Regions M and O",
@@ -4302,7 +4302,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "3",
         "exam": "source4",
         "id": 30243,
         "originalQuestionNumber": 13,
@@ -4314,7 +4314,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{70}{3}\\)",
         "diagramRef": "diagram356.png",
         "exam": "source3",
         "id": 30244,
@@ -4327,7 +4327,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "20",
             "B": "21",
@@ -4346,7 +4346,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "AG",
             "B": "BE",
@@ -4366,7 +4366,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "22.75",
             "B": "24.75",
@@ -4385,7 +4385,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "diagram1568.png",
             "B": "diagram1634.png",
@@ -4403,7 +4403,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "48",
             "B": "50",
@@ -4422,7 +4422,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{7}{6}\\)",
         "diagramRef": "diagram1687.png",
         "exam": "source4",
         "id": 30250,
@@ -4435,7 +4435,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "12",
             "B": "24",
@@ -4454,7 +4454,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(a_4\\)",
             "B": "\\(a_5\\)",
@@ -4473,7 +4473,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "A",
             "B": "B",
@@ -4493,7 +4493,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "24",
             "B": "32",
@@ -4513,7 +4513,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "25\\%",
             "B": "50\\%",
@@ -4531,7 +4531,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "9",
             "B": "12",
@@ -4550,7 +4550,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(-2 < a \\diamond b < -1\\)",
             "B": "\\(-1 < a \\diamond b < 0\\)",
@@ -4569,7 +4569,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "1",
             "B": "3",
@@ -4588,7 +4588,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "9",
             "B": "11",
@@ -4607,7 +4607,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{6}{5}\\)",
         "exam": "source3",
         "id": 30260,
         "originalQuestionNumber": 24,
@@ -4619,7 +4619,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "36",
             "B": "40",
@@ -4638,7 +4638,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "6",
             "B": "6.5",
@@ -4657,7 +4657,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{x}{2}\\)",
             "B": "2x",
@@ -4676,7 +4676,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(2\\pi\\)",
             "B": "\\(4\\pi\\)",
@@ -4695,7 +4695,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{1}{2}\\)",
         "exam": "source4",
         "id": 30265,
         "originalQuestionNumber": 12,
@@ -4707,7 +4707,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(|s + t|\\)",
             "B": "\\(|s + v|\\)",
@@ -4725,7 +4725,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "5rx",
             "B": "\\(5r + x\\)",
@@ -4744,7 +4744,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "Wednesday",
             "B": "Thursday",
@@ -4763,7 +4763,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "14",
             "B": "17",
@@ -4782,7 +4782,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(\\overline{AB}\\)",
             "B": "\\(\\overline{AC}\\)",
@@ -4802,7 +4802,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "225",
             "B": "112.5",
@@ -4821,7 +4821,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "5",
             "B": "8",
@@ -4840,7 +4840,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\((3) \\cdot 32 - x \\leq 120\\)",
             "B": "\\((3) \\cdot 32 - x \\geq 120\\)",
@@ -4859,7 +4859,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\$4",
             "B": "\\$8",
@@ -4878,7 +4878,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "5",
             "B": "13",
@@ -4897,7 +4897,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "20",
         "diagramRef": "diagram12.png",
         "exam": "source4",
         "id": 30276,
@@ -4908,7 +4908,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "44",
         "exam": "source4",
         "id": 30277,
         "originalQuestionNumber": 11,
@@ -4920,7 +4920,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(-\\frac{1}{2}\\)",
             "B": "\\(-\\frac{1}{3}\\)",
@@ -4939,7 +4939,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "22",
         "exam": "source3",
         "id": 30279,
         "originalQuestionNumber": 11,
@@ -4951,7 +4951,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "2100",
         "exam": "source3",
         "id": 30280,
         "originalQuestionNumber": 17,
@@ -4963,7 +4963,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "18",
             "B": "20",
@@ -4983,7 +4983,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "30",
             "B": "35",
@@ -5003,7 +5003,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(u = x\\)",
             "B": "\\(x = v\\)",
@@ -5023,7 +5023,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "5",
             "B": "6",
@@ -5042,7 +5042,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(y^4 - 1\\)",
             "B": "\\(y^4 - y^2 - 1\\)",
@@ -5061,7 +5061,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "5400",
         "exam": "source4",
         "id": 30286,
         "originalQuestionNumber": 10,
@@ -5073,7 +5073,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "137",
             "B": "138",
@@ -5091,7 +5091,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(5z^2 = (z + 5)^2\\)",
             "B": "\\((5z)^2 = z^2 + 5^2\\)",
@@ -5110,7 +5110,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "24,000",
             "B": "46,000",
@@ -5128,7 +5128,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "6",
             "B": "12",
@@ -5147,7 +5147,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "52",
         "diagramRef": "diagram931.png",
         "exam": "source4",
         "id": 30291,
@@ -5160,7 +5160,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1",
             "B": "0",
@@ -5179,7 +5179,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(x - 8\\)",
             "B": "\\(x + 37\\)",
@@ -5198,7 +5198,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{x - 1}{y - 1}\\)",
             "B": "\\(\\frac{y}{x - 1}\\)",
@@ -5217,7 +5217,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "0",
             "B": "1",
@@ -5236,7 +5236,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\$3.60",
             "B": "\\$6.40",
@@ -5255,7 +5255,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "14",
             "B": "15",
@@ -5274,7 +5274,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "56",
             "B": "76",
@@ -5294,7 +5294,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "m",
             "B": "\\(\\frac{4}{3}m\\)",
@@ -5313,7 +5313,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "12 inches",
             "B": "8 inches",
@@ -5332,7 +5332,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{1}{4}\\)",
             "B": "\\(\\frac{1}{2}\\)",
@@ -5351,7 +5351,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -5370,7 +5370,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "10",
         "diagramRef": "diagram1139.png",
         "exam": "source4",
         "id": 30303,
@@ -5383,7 +5383,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "15 degrees",
             "B": "30 degrees",
@@ -5403,7 +5403,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(\\frac{9}{10}\\)",
             "B": "\\(\\frac{20}{23}\\)",
@@ -5422,7 +5422,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "100 degrees",
             "B": "160 degrees",
@@ -5442,7 +5442,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "10",
             "B": "12",
@@ -5461,7 +5461,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "91",
             "B": "89",
@@ -5480,7 +5480,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "43",
             "B": "46",
@@ -5500,7 +5500,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(-5\\)",
             "B": "\\(-1\\)",
@@ -5519,7 +5519,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "85",
             "B": "86",
@@ -5538,7 +5538,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "3",
             "B": "4",
@@ -5557,7 +5557,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "2035",
         "exam": "source3",
         "id": 30313,
         "originalQuestionNumber": 12,
@@ -5569,7 +5569,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "0",
             "B": "1",
@@ -5588,7 +5588,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "60",
             "B": "61",
@@ -5607,7 +5607,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1 to 2",
             "B": "1 to 1",
@@ -5626,7 +5626,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "13",
             "B": "14",
@@ -5645,7 +5645,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "6",
             "B": "7",
@@ -5664,7 +5664,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(j < k < m\\)",
             "B": "\\(j < m < k\\)",
@@ -5683,7 +5683,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "(120, 125)",
         "diagramRef": "diagram1563.png",
         "exam": "source3",
         "id": 30320,
@@ -5696,7 +5696,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "400",
             "B": "500",
@@ -5715,7 +5715,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "None",
             "B": "I only",
@@ -5735,7 +5735,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(\\frac{1}{8}\\)",
             "B": "\\(\\frac{1}{4}\\)",
@@ -5754,7 +5754,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\sqrt{29}\\)",
             "B": "\\(\\sqrt{41}\\)",
@@ -5773,7 +5773,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(a(\\frac{c + k}{b})\\)",
             "B": "\\(a(c + \\frac{k}{b})\\)",
@@ -5792,7 +5792,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "3",
             "B": "8",
@@ -5811,7 +5811,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "5",
             "B": "6",
@@ -5831,7 +5831,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "54",
             "B": "64",
@@ -5850,7 +5850,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "12",
             "B": "15",
@@ -5869,7 +5869,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "27",
             "B": "18",
@@ -5888,7 +5888,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{7}{6}\\)",
         "diagramRef": "diagram965.png",
         "exam": "source3",
         "id": 30331,
@@ -5901,7 +5901,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "70",
             "B": "75",
@@ -5920,7 +5920,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "6",
             "B": "7",
@@ -5938,7 +5938,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1",
             "B": "3",
@@ -5956,7 +5956,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "1.5",
             "B": "2",
@@ -5974,7 +5974,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "28",
             "B": "24",
@@ -5993,7 +5993,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "12",
             "B": "15",
@@ -6012,7 +6012,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "4",
             "B": "5",
@@ -6032,7 +6032,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(-\\frac{5}{9}\\)",
             "B": "\\(\\frac{7}{3}\\)",
@@ -6051,7 +6051,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "24",
             "B": "26",
@@ -6071,7 +6071,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\sqrt{10\\pi}\\)",
             "B": "\\(\\sqrt{44}\\)",
@@ -6091,7 +6091,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "27",
         "diagramRef": "diagram622.png",
         "exam": "source4",
         "id": 30342,
@@ -6104,7 +6104,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "48",
             "B": "60",
@@ -6123,7 +6123,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "5",
             "B": "10",
@@ -6142,7 +6142,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "40",
             "B": "42.5",
@@ -6162,7 +6162,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "4",
             "B": "6",
@@ -6181,7 +6181,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{13}{2}\\)",
         "diagramRef": "diagram214.png",
         "exam": "source3",
         "id": 30347,
@@ -6194,7 +6194,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "0.5 ft",
             "B": "1 ft",
@@ -6213,7 +6213,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "15",
             "B": "75",
@@ -6232,7 +6232,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{555 - x}{y}\\)",
             "B": "\\(\\frac{555 + x - y}{y}\\)",
@@ -6251,7 +6251,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "32",
             "B": "96",
@@ -6271,7 +6271,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(-1 \\frac{3}{4}\\)",
             "B": "\\(-\\frac{1}{2}\\)",
@@ -6290,7 +6290,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "15",
             "B": "30",
@@ -6309,7 +6309,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "3",
             "B": "7",
@@ -6328,7 +6328,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "9",
             "B": "10.5",
@@ -6347,7 +6347,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "8",
             "B": "12",
@@ -6366,7 +6366,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(\\frac{a + b + c + d}{4}\\)",
             "B": "\\(\\frac{a + b + c + d}{240}\\)",
@@ -6385,7 +6385,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "4",
             "B": "5",
@@ -6404,7 +6404,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(P(x) = 15x + 12\\)",
             "B": "\\(P(x) = 15x - 12\\)",
@@ -6423,7 +6423,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "10",
             "B": "20",
@@ -6441,7 +6441,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(p + 2\\)",
             "B": "\\(p + 3\\)",
@@ -6460,7 +6460,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "50",
         "diagramRef": "diagram678.png",
         "exam": "source3",
         "id": 30362,
@@ -6473,7 +6473,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "2,500",
             "B": "3,000",
@@ -6491,7 +6491,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "30",
         "exam": "source4",
         "id": 30364,
         "originalQuestionNumber": 11,
@@ -6503,7 +6503,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "0",
             "B": "1",
@@ -6522,7 +6522,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "28",
         "diagramRef": "diagram250.png",
         "exam": "source4",
         "id": 30366,
@@ -6535,7 +6535,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "3",
             "B": "4",
@@ -6554,7 +6554,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "93",
             "B": "94",
@@ -6573,7 +6573,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "0.75",
             "B": "1.33",
@@ -6592,7 +6592,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(x < x^2 < x^3\\)",
             "B": "\\(x < x^3 < x^2\\)",
@@ -6611,7 +6611,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "100",
             "B": "120",
@@ -6631,7 +6631,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "6",
             "B": "8",
@@ -6649,7 +6649,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -6668,7 +6668,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "32",
         "exam": "source4",
         "id": 30374,
         "originalQuestionNumber": 13,
@@ -6680,7 +6680,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "0",
             "B": "1",
@@ -6699,7 +6699,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "The 3rd",
             "B": "The 5th",
@@ -6717,7 +6717,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "none",
             "B": "one",
@@ -6736,7 +6736,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "(0, 1)",
         "exam": "source3",
         "id": 30378,
         "originalQuestionNumber": 14,
@@ -6748,7 +6748,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "29",
             "B": "32",
@@ -6767,7 +6767,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "16",
             "B": "45",
@@ -6786,7 +6786,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "4",
         "exam": "source4",
         "id": 30381,
         "originalQuestionNumber": 13,
@@ -6798,7 +6798,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "2",
             "B": "3",
@@ -6818,7 +6818,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "4",
             "B": "5",
@@ -6837,7 +6837,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "2",
             "B": "4",
@@ -6856,7 +6856,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "85",
             "B": "87",
@@ -6875,7 +6875,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(10 - 25\\pi\\)",
             "B": "\\(10 + \\frac{5}{8}\\pi\\)",
@@ -6895,7 +6895,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(-\\frac{3}{2}\\)",
             "B": "\\(-\\frac{2}{3}\\)",
@@ -6914,7 +6914,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{3}{5}\\)",
             "B": "\\(\\frac{2}{3}\\)",
@@ -6934,7 +6934,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "116",
         "exam": "source4",
         "id": 30389,
         "originalQuestionNumber": 11,
@@ -6946,7 +6946,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{15}{2}\\)",
         "exam": "source3",
         "id": 30390,
         "originalQuestionNumber": 9,
@@ -6958,7 +6958,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "27",
             "B": "45",
@@ -6977,7 +6977,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "4",
             "B": "\\(2 \\sqrt 3\\)",
@@ -6996,7 +6996,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(x + 5\\)",
             "B": "\\(x + 6\\)",
@@ -7015,7 +7015,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "12",
             "B": "21",
@@ -7034,7 +7034,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(b \\geq 5\\)",
             "B": "\\(b \\geq 1\\)",
@@ -7053,7 +7053,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "None",
             "B": "One",
@@ -7072,7 +7072,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "0",
             "B": "1",
@@ -7091,7 +7091,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-3\\) and \\(-2\\)",
             "B": "\\(-2\\) and \\(-1\\)",
@@ -7111,7 +7111,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "1986-1987",
             "B": "1987-1988",
@@ -7129,7 +7129,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "1",
             "B": "\\(\\sqrt{2}\\)",
@@ -7147,7 +7147,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "14",
         "exam": "source4",
         "id": 30401,
         "originalQuestionNumber": 13,
@@ -7159,7 +7159,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "(4.5, 5.75)",
         "exam": "source4",
         "id": 30402,
         "originalQuestionNumber": 14,
@@ -7171,7 +7171,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "18",
             "B": "25",
@@ -7190,7 +7190,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "*3",
             "B": "*9",
@@ -7209,7 +7209,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{13}{2}\\)",
         "exam": "source3",
         "id": 30405,
         "originalQuestionNumber": 16,
@@ -7221,7 +7221,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "5",
             "B": "6",
@@ -7240,7 +7240,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(a - 15\\)",
             "B": "\\(\\frac{(a - 7)}{2}\\)",
@@ -7260,7 +7260,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "13",
         "exam": "source4",
         "id": 30408,
         "originalQuestionNumber": 10,
@@ -7272,7 +7272,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(y = (x - 3)^2 + 4\\)",
             "B": "\\(y = (x + 3)^2 - 2\\)",
@@ -7290,7 +7290,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "19",
             "B": "25",
@@ -7309,7 +7309,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "(0, 1)",
         "exam": "source3",
         "id": 30411,
         "originalQuestionNumber": 20,
@@ -7321,7 +7321,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "30",
             "B": "32",
@@ -7341,7 +7341,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "30",
             "B": "50",
@@ -7360,7 +7360,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "3",
             "B": "4",
@@ -7379,7 +7379,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "diagram661.png",
             "B": "diagram1002.png",
@@ -7396,7 +7396,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "25",
         "exam": "source4",
         "id": 30416,
         "originalQuestionNumber": 15,
@@ -7408,7 +7408,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "3",
             "B": "5",
@@ -7427,7 +7427,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "10s",
             "B": "14s",
@@ -7447,7 +7447,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "If Ethan was not Mark's student, then he is not going to college.",
             "B": "If Joyelle goes to college, then she was not Mark's student.",
@@ -7466,7 +7466,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\$5,500,000",
             "B": "\\$6,500,000",
@@ -7484,7 +7484,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "1",
             "B": "2",
@@ -7503,7 +7503,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "120",
         "exam": "source3",
         "id": 30422,
         "originalQuestionNumber": 23,
@@ -7515,7 +7515,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "diagram1205.png",
             "B": "diagram560.png",
@@ -7533,7 +7533,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\$7.00",
             "B": "\\$9.00",
@@ -7552,7 +7552,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{7}{10}\\)",
         "exam": "source3",
         "id": 30425,
         "originalQuestionNumber": 19,
@@ -7564,7 +7564,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\$6",
             "B": "\\$12",
@@ -7583,7 +7583,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\((a, b)\\)",
             "B": "\\((b, a)\\)",
@@ -7602,7 +7602,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "diagram232.png",
             "B": "diagram1577.png",
@@ -7620,7 +7620,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(x - 4\\)",
             "B": "\\(2x + 1\\)",
@@ -7639,7 +7639,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "30",
         "exam": "source4",
         "id": 30430,
         "originalQuestionNumber": 18,
@@ -7651,7 +7651,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "8,400",
             "B": "2,100",
@@ -7670,7 +7670,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{1}{4}\\)",
             "B": "\\(\\frac{1}{3}\\)",
@@ -7688,7 +7688,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "diagram39.png",
             "B": "diagram335.png",
@@ -7705,7 +7705,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "1300",
         "diagramRef": "diagram1338.png",
         "exam": "source3",
         "id": 30434,
@@ -7716,7 +7716,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(\\frac{1}{2}\\)",
             "B": "\\(\\frac{2}{3}\\)",
@@ -7733,7 +7733,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(2m + 20\\)",
             "B": "\\(2m - 20\\)",
@@ -7752,7 +7752,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{1}{5}\\)",
             "B": "\\(\\frac{3}{10}\\)",
@@ -7771,7 +7771,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(1 - x\\)",
             "B": "\\(\\frac{1}{x}\\)",
@@ -7790,7 +7790,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{1}{90}\\)",
             "B": "\\(\\frac{1}{180}\\)",
@@ -7809,7 +7809,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "II only",
             "B": "I and II only",
@@ -7828,7 +7828,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{650p}{4}\\)",
             "B": "\\(\\frac{2,600}{p}\\)",
@@ -7847,7 +7847,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "15",
             "B": "13",
@@ -7867,7 +7867,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\((4, 8)\\)",
             "B": "\\((4, 10)\\)",
@@ -7886,7 +7886,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\((1, 2)\\)",
             "B": "\\((1, 7)\\)",
@@ -7905,7 +7905,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{2}{k}\\)",
             "B": "\\(\\frac{1}{2k}\\)",
@@ -7924,7 +7924,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "I only",
             "B": "I and II only",
@@ -7943,7 +7943,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(\\frac{6}{5}\\)",
             "B": "3",
@@ -7962,7 +7962,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(x + y = 5\\)",
             "B": "\\(x - y = 1\\)",
@@ -7981,7 +7981,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\$.40",
             "B": "\\$.50",
@@ -8000,7 +8000,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(-6\\)",
             "B": "\\(-4\\)",
@@ -8019,7 +8019,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "2",
             "B": "5",
@@ -8038,7 +8038,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\$16.20",
             "B": "\\$162.00",
@@ -8057,7 +8057,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "9\\%",
             "B": "10\\%",
@@ -8076,7 +8076,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{1}{2}\\)",
             "B": "\\(\\frac{1}{3}\\)",
@@ -8094,7 +8094,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "0",
             "B": "2",
@@ -8113,7 +8113,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "4",
             "B": "5",
@@ -8133,7 +8133,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(4 \\triangle 8 \\triangle 2\\)",
             "B": "\\(3 \\triangle 2 \\triangle 1\\)",
@@ -8152,7 +8152,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "16",
             "B": "20",
@@ -8172,7 +8172,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "21",
             "B": "36",
@@ -8191,7 +8191,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "5",
             "B": "8",
@@ -8210,7 +8210,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "12",
             "B": "14",
@@ -8229,7 +8229,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "12",
         "exam": "source3",
         "id": 30462,
         "originalQuestionNumber": 13,
@@ -8241,7 +8241,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-2\\)",
             "B": "\\(-1\\)",
@@ -8260,7 +8260,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "15",
             "B": "16",
@@ -8279,7 +8279,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "120 miles",
             "B": "180 miles",
@@ -8298,7 +8298,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "7",
             "B": "8",
@@ -8317,7 +8317,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "180",
         "diagramRef": "diagram836.png",
         "exam": "source3",
         "id": 30467,
@@ -8328,7 +8328,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "2",
             "B": "4",
@@ -8347,7 +8347,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "52",
             "B": "72",
@@ -8367,7 +8367,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "15",
         "exam": "source4",
         "id": 30470,
         "originalQuestionNumber": 13,
@@ -8379,7 +8379,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "35",
             "B": "70",
@@ -8398,7 +8398,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(-6 < x < -3\\) only",
             "B": "\\(-3 < x < 0\\) only",
@@ -8418,7 +8418,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(y = x^2 + 2\\)",
             "B": "\\(y = (x + 2)^2\\)",
@@ -8436,7 +8436,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "6",
             "B": "9",
@@ -8455,7 +8455,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "2",
             "B": "4",
@@ -8474,7 +8474,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "6",
         "diagramRef": "diagram1388.png",
         "exam": "source4",
         "id": 30476,
@@ -8487,7 +8487,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(f(t) = t - 1\\)",
             "B": "\\(f(t) = t + 1\\)",
@@ -8505,7 +8505,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "7",
             "B": "13",
@@ -8524,7 +8524,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(-10\\)",
             "B": "\\(-5\\)",
@@ -8543,7 +8543,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(-73\\)",
             "B": "\\(-3\\)",
@@ -8562,7 +8562,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "3",
         "exam": "source4",
         "id": 30481,
         "originalQuestionNumber": 14,
@@ -8574,7 +8574,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "February to March",
             "B": "March to April",
@@ -8592,7 +8592,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "12",
             "B": "13",
@@ -8611,7 +8611,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{1}{14}\\)",
             "B": "\\(\\frac{1}{15}\\)",
@@ -8630,7 +8630,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "Employee 1",
             "B": "Employee 2",
@@ -8648,7 +8648,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "20",
             "B": "30",
@@ -8667,7 +8667,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "0",
             "B": "1",
@@ -8685,7 +8685,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(2^{4m}\\)",
             "B": "\\(4^{2m}\\)",
@@ -8704,7 +8704,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "1500",
         "diagramRef": "diagram1062.png",
         "exam": "source4",
         "id": 30489,
@@ -8715,7 +8715,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(-9\\)",
             "B": "\\(-7\\)",
@@ -8734,7 +8734,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "One",
             "B": "Two",
@@ -8753,7 +8753,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "1.6",
         "exam": "source4",
         "id": 30492,
         "originalQuestionNumber": 29,
@@ -8765,7 +8765,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "6",
             "B": "8",
@@ -8784,7 +8784,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "1.5",
         "exam": "source4",
         "id": 30494,
         "originalQuestionNumber": 35,
@@ -8796,7 +8796,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "7",
             "B": "24",
@@ -8815,7 +8815,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "a",
             "B": "b",
@@ -8833,7 +8833,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{2}{7}\\)",
         "exam": "source3",
         "id": 30497,
         "originalQuestionNumber": 25,
@@ -8845,7 +8845,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "16",
             "B": "17",
@@ -8864,7 +8864,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "A",
             "B": "B",
@@ -8884,7 +8884,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "12",
         "exam": "source4",
         "id": 30500,
         "originalQuestionNumber": 12,
@@ -8896,7 +8896,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "1",
             "B": "3",
@@ -8915,7 +8915,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(5m + 10\\)",
             "B": "\\(5m + 50\\)",
@@ -8934,7 +8934,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(2 \\pi\\)",
             "B": "\\(4 \\pi\\)",
@@ -8954,7 +8954,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(\\frac{a}{b}\\)",
             "B": "ab",
@@ -8973,7 +8973,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "16",
             "B": "32",
@@ -8992,7 +8992,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "90",
             "B": "120",
@@ -9011,7 +9011,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(a = c\\)",
             "B": "\\(a = e\\)",
@@ -9031,7 +9031,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "24",
             "B": "25",
@@ -9050,7 +9050,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "89",
         "exam": "source3",
         "id": 30509,
         "originalQuestionNumber": 14,
@@ -9062,7 +9062,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(w - 2\\)",
             "B": "\\(w - 1\\)",
@@ -9082,7 +9082,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(9x^2 + 16x - 4\\)",
             "B": "\\(18x^2 + 32x - 8\\)",
@@ -9101,7 +9101,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "diagram36.png",
             "B": "diagram1282.png",
@@ -9119,7 +9119,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(a > b\\)",
             "B": "\\(b > a\\)",
@@ -9138,7 +9138,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "2",
             "B": "3",
@@ -9158,7 +9158,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "0",
             "B": "2",
@@ -9177,7 +9177,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(30 < s < 50\\)",
             "B": "\\(50 < s < 70\\)",
@@ -9197,7 +9197,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "10",
             "B": "9",
@@ -9216,7 +9216,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "4",
             "B": "6",
@@ -9235,7 +9235,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "2.2",
             "B": "60",
@@ -9254,7 +9254,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{2}{3}\\)",
         "exam": "source3",
         "id": 30520,
         "originalQuestionNumber": 21,
@@ -9266,7 +9266,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "4",
             "B": "\\(\\frac{4d}{c}\\)",
@@ -9285,7 +9285,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "9",
             "B": "15",
@@ -9305,7 +9305,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1",
             "B": "2",
@@ -9324,7 +9324,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "4",
             "B": "3",
@@ -9343,7 +9343,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "2",
         "exam": "source3",
         "id": 30525,
         "originalQuestionNumber": 10,
@@ -9355,7 +9355,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(-5\\) and 2 only",
             "B": "5 and \\(-2\\) only",
@@ -9374,7 +9374,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "17",
             "B": "34",
@@ -9393,7 +9393,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\$200",
             "B": "\\$320",
@@ -9411,7 +9411,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "33",
         "exam": "source3",
         "id": 30529,
         "originalQuestionNumber": 25,
@@ -9423,7 +9423,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "3",
             "B": "6",
@@ -9442,7 +9442,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "48",
             "B": "56",
@@ -9460,7 +9460,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "89",
             "B": "90",
@@ -9480,7 +9480,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "15",
             "B": "14",
@@ -9500,7 +9500,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "180",
         "exam": "source4",
         "id": 30534,
         "originalQuestionNumber": 11,
@@ -9512,7 +9512,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "37",
         "exam": "source3",
         "id": 30535,
         "originalQuestionNumber": 18,
@@ -9524,7 +9524,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "30",
             "B": "32",
@@ -9543,7 +9543,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "1",
         "exam": "source4",
         "id": 30537,
         "originalQuestionNumber": 9,
@@ -9555,7 +9555,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "A",
             "B": "B",
@@ -9575,7 +9575,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "29",
         "exam": "source4",
         "id": 30539,
         "originalQuestionNumber": 11,
@@ -9587,7 +9587,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "30",
             "B": "40",
@@ -9606,7 +9606,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "3",
             "B": "6",
@@ -9625,7 +9625,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(-4\\)",
             "B": "\\(-2\\)",
@@ -9644,7 +9644,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "24",
         "exam": "source4",
         "id": 30543,
         "originalQuestionNumber": 12,
@@ -9656,7 +9656,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "5",
         "exam": "source4",
         "id": 30544,
         "originalQuestionNumber": 14,
@@ -9668,7 +9668,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "2",
             "B": "4",
@@ -9688,7 +9688,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "1.5",
             "B": "2",
@@ -9707,7 +9707,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(-5\\)",
             "B": "\\(-2\\)",
@@ -9726,7 +9726,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "16",
             "B": "20",
@@ -9745,7 +9745,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "16",
         "exam": "source4",
         "id": 30549,
         "originalQuestionNumber": 9,
@@ -9757,7 +9757,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "6",
             "B": "7",
@@ -9776,7 +9776,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1",
             "B": "2",
@@ -9795,7 +9795,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(w^4\\)",
             "B": "\\((w - 2)^3\\)",
@@ -9814,7 +9814,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-1\\)",
             "B": "0",
@@ -9833,7 +9833,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{3}{8}\\)",
             "B": "\\(\\frac{1}{4}\\)",
@@ -9853,7 +9853,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "11",
         "exam": "source3",
         "id": 30555,
         "originalQuestionNumber": 14,
@@ -9865,7 +9865,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "27",
             "B": "29",
@@ -9884,7 +9884,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "3",
             "B": "6",
@@ -9903,7 +9903,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\$1,200",
             "B": "\\$1,700",
@@ -9922,7 +9922,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\((1, 1)\\)",
             "B": "\\((1, 4)\\)",
@@ -9942,7 +9942,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{3}{16}\\)",
             "B": "\\(\\frac{1}{3}\\)",
@@ -9961,7 +9961,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-4\\)",
             "B": "\\(-2\\)",
@@ -9980,7 +9980,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "900",
         "diagramRef": "diagram1268.png",
         "exam": "source4",
         "id": 30562,
@@ -9991,7 +9991,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(p = r\\)",
             "B": "\\(p < r\\)",
@@ -10011,7 +10011,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "300",
         "exam": "source3",
         "id": 30564,
         "originalQuestionNumber": 13,
@@ -10023,7 +10023,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "2",
             "B": "3",
@@ -10041,7 +10041,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "none",
             "B": "I only",
@@ -10060,7 +10060,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "diagram1230.png",
             "B": "diagram1355.png",
@@ -10080,7 +10080,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(s + 2n - 2r\\)",
             "B": "\\(s + 2n + 2r\\)",
@@ -10099,7 +10099,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "diagram1070.png",
             "B": "diagram22.png",
@@ -10117,7 +10117,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "15",
             "B": "20",
@@ -10137,7 +10137,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "10",
         "diagramRef": "diagram807.png",
         "exam": "source4",
         "id": 30571,
@@ -10148,7 +10148,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "15",
             "B": "20",
@@ -10168,7 +10168,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "4",
         "exam": "source4",
         "id": 30573,
         "originalQuestionNumber": 9,
@@ -10180,7 +10180,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "96",
         "diagramRef": "diagram450.png",
         "exam": "source3",
         "id": 30574,
@@ -10191,7 +10191,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "24",
         "exam": "source4",
         "id": 30575,
         "originalQuestionNumber": 12,
@@ -10203,7 +10203,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "191",
         "exam": "source4",
         "id": 30576,
         "originalQuestionNumber": 11,
@@ -10215,7 +10215,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(7 \\times \\frac{1}{10}\\)",
             "B": "\\(7 \\times \\frac{1}{100}\\)",
@@ -10234,7 +10234,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "A",
             "B": "B",
@@ -10252,7 +10252,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "24",
             "B": "28",
@@ -10271,7 +10271,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -10290,7 +10290,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "3x",
             "B": "\\(x \\sqrt{15}\\)",
@@ -10310,7 +10310,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{16}{3}\\)",
         "exam": "source4",
         "id": 30582,
         "originalQuestionNumber": 17,
@@ -10322,7 +10322,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(3 \\frac{1}{4}\\)",
             "B": "\\(3 \\frac{1}{2}\\)",
@@ -10341,7 +10341,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "10",
         "exam": "source4",
         "id": 30584,
         "originalQuestionNumber": 9,
@@ -10353,7 +10353,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "Two",
             "B": "Three",
@@ -10372,7 +10372,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{p}{kn}\\)",
             "B": "\\(\\frac{kn}{p}\\)",
@@ -10391,7 +10391,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "200",
         "exam": "source4",
         "id": 30587,
         "originalQuestionNumber": 12,
@@ -10403,7 +10403,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(y = 10x - 120\\)",
             "B": "\\(y = 10x + 120\\)",
@@ -10421,7 +10421,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(-27\\)",
             "B": "\\(-9\\)",
@@ -10440,7 +10440,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "75",
             "B": "80",
@@ -10458,7 +10458,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-4a\\)",
             "B": "\\(-4b\\)",
@@ -10477,7 +10477,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "1",
             "B": "\\(\\frac{t}{2}\\)",
@@ -10496,7 +10496,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "5.5",
             "B": "6",
@@ -10515,7 +10515,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "4",
         "exam": "source4",
         "id": 30594,
         "originalQuestionNumber": 14,
@@ -10527,7 +10527,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "8",
         "diagramRef": "diagram1438.png",
         "exam": "source3",
         "id": 30595,
@@ -10540,7 +10540,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(49 - \\sqrt{7}\\)",
             "B": "24",
@@ -10559,7 +10559,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(4\\pi\\)",
             "B": "\\(6 \\pi\\)",
@@ -10578,7 +10578,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "3",
         "exam": "source4",
         "id": 30598,
         "originalQuestionNumber": 14,
@@ -10590,7 +10590,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "0",
             "B": "\\(\\frac{1}{10}\\)",
@@ -10609,7 +10609,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "9m",
             "B": "mn",
@@ -10628,7 +10628,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "8 or 12",
         "exam": "source4",
         "id": 30601,
         "originalQuestionNumber": 14,
@@ -10640,7 +10640,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "100 percent of 1",
             "B": "101 percent of 1",
@@ -10659,7 +10659,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\((0, 0)\\)",
             "B": "\\((1, 1)\\)",
@@ -10678,7 +10678,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-3\\)",
             "B": "\\(-1\\)",
@@ -10698,7 +10698,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(m + 1\\)",
             "B": "m",
@@ -10717,7 +10717,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "6:15",
             "B": "12:25",
@@ -10736,7 +10736,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "all real numbers",
             "B": "\\(x \\geq 1\\)",
@@ -10754,7 +10754,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\((x - y)^2 = 18\\)",
             "B": "\\((x + y)^2 = 18\\)",
@@ -10773,7 +10773,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "3",
             "B": "5",
@@ -10792,7 +10792,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{4}{a - 1}\\)",
             "B": "\\(\\frac{4}{a}\\)",
@@ -10811,7 +10811,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{8}{5}\\)",
         "exam": "source4",
         "id": 30611,
         "originalQuestionNumber": 37,
@@ -10823,7 +10823,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{100(n + 2)}{(m - 4)} \\%\\)",
             "B": "\\(\\frac{m - 4}{n + 2} (100) \\%\\)",
@@ -10842,7 +10842,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "diagram1639.png",
             "B": "diagram992.png",
@@ -10859,7 +10859,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{2}{5}\\)",
         "exam": "source4",
         "id": 30614,
         "originalQuestionNumber": 16,
@@ -10871,7 +10871,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "6",
             "B": "7",
@@ -10890,7 +10890,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(n > l > m\\)",
             "B": "\\(m > n > l\\)",
@@ -10909,7 +10909,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "diagram706.png",
             "B": "diagram969.png",
@@ -10926,7 +10926,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(y = -\\frac{3}{2}x + 2\\)",
             "B": "\\(y = -\\frac{3}{2}x + 3\\)",
@@ -10944,7 +10944,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{1}{2} + \\frac{y - 15}{40}\\)",
             "B": "\\(2 + \\frac{y - 15}{40}\\)",
@@ -10963,7 +10963,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "16",
             "B": "48",
@@ -10982,7 +10982,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "3",
             "B": "7",
@@ -11001,7 +11001,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "30,000",
             "B": "60,000",
@@ -11020,7 +11020,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "II only",
             "B": "I and II only",
@@ -11039,7 +11039,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "49",
         "diagramRef": "diagram608.png",
         "exam": "source3",
         "id": 30624,
@@ -11052,7 +11052,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "5",
             "B": "6",
@@ -11071,7 +11071,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "14",
             "B": "15",
@@ -11090,7 +11090,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\$500",
             "B": "\\$1,000",
@@ -11109,7 +11109,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "1",
             "B": "2",
@@ -11128,7 +11128,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "r",
             "B": "s",
@@ -11148,7 +11148,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "5",
             "B": "4",
@@ -11165,7 +11165,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "72",
         "diagramRef": "diagram1461.png",
         "exam": "source4",
         "id": 30631,
@@ -11178,7 +11178,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{2}{3}\\)",
         "exam": "source4",
         "id": 30632,
         "originalQuestionNumber": 15,
@@ -11190,7 +11190,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(3m - 21\\)",
             "B": "\\(3m - 13\\)",
@@ -11209,7 +11209,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "18",
         "exam": "source4",
         "id": 30634,
         "originalQuestionNumber": 10,
@@ -11221,7 +11221,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{1}{3}\\)",
         "exam": "source4",
         "id": 30635,
         "originalQuestionNumber": 16,
@@ -11233,7 +11233,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(3^{x + 8}\\)",
             "B": "\\(3^{9x}\\)",
@@ -11252,7 +11252,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{15,000gd}{m}\\)",
             "B": "15,000gmd",
@@ -11271,7 +11271,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(y + 1\\)",
             "B": "\\(y + 2\\)",
@@ -11290,7 +11290,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "5",
             "B": "10",
@@ -11309,7 +11309,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\$45",
             "B": "\\$48",
@@ -11328,7 +11328,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(-27\\)",
             "B": "\\(-23\\)",
@@ -11347,7 +11347,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "4",
             "B": "5",
@@ -11366,7 +11366,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "13",
         "exam": "source3",
         "id": 30643,
         "originalQuestionNumber": 23,
@@ -11378,7 +11378,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "16",
             "B": "18",
@@ -11397,7 +11397,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "Each committee has at least 4 people.",
             "B": "No 2 committees have the same number of people.",
@@ -11416,7 +11416,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "14",
         "exam": "source4",
         "id": 30646,
         "originalQuestionNumber": 9,
@@ -11428,7 +11428,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "10\\%",
             "B": "20\\%",
@@ -11447,7 +11447,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "40",
             "B": "45",
@@ -11467,7 +11467,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "a is even",
             "B": "b is even",
@@ -11486,7 +11486,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "8",
             "B": "11",
@@ -11505,7 +11505,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{4}{6 - w}\\)",
             "B": "\\(\\frac{w}{6 - w}\\)",
@@ -11524,7 +11524,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "30",
             "B": "35",
@@ -11543,7 +11543,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(\\frac{60}{100}\\)",
             "B": "\\(\\frac{73}{100}\\)",
@@ -11561,7 +11561,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "0",
             "B": "4w",
@@ -11580,7 +11580,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "400",
             "B": "500",
@@ -11599,7 +11599,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{49}{5}\\)",
         "diagramRef": "diagram1472.png",
         "exam": "source3",
         "id": 30656,
@@ -11612,7 +11612,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "89",
         "exam": "source3",
         "id": 30657,
         "originalQuestionNumber": 9,
@@ -11624,7 +11624,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-5\\)",
             "B": "0",
@@ -11643,7 +11643,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "5",
             "B": "8",
@@ -11662,7 +11662,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{1}{25}\\)",
         "exam": "source4",
         "id": 30660,
         "originalQuestionNumber": 13,
@@ -11674,7 +11674,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1996 and 1997",
             "B": "1997 and 1998",
@@ -11692,7 +11692,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "2",
             "B": "8",
@@ -11711,7 +11711,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "A",
             "B": "B",
@@ -11730,7 +11730,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-2 < x < -1\\) only",
             "B": "\\(-1 < x < 2\\) only",
@@ -11748,7 +11748,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(-1\\)",
             "B": "1",
@@ -11767,7 +11767,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "It increased by about 1,000.",
             "B": "It increased by about 320.",
@@ -11786,7 +11786,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(a < b < c\\)",
             "B": "\\(a < c < b\\)",
@@ -11805,7 +11805,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "2",
             "B": "3",
@@ -11824,7 +11824,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(\\frac{1}{3}\\)",
             "B": "\\(\\frac{2}{3}\\)",
@@ -11843,7 +11843,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "6 miles",
             "B": "7 miles",
@@ -11862,7 +11862,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "17 or 19",
         "diagramRef": "diagram1.png",
         "exam": "source4",
         "id": 30671,
@@ -11875,7 +11875,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{3}{4}\\)",
         "exam": "source4",
         "id": 30672,
         "originalQuestionNumber": 32,
@@ -11887,7 +11887,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "6",
             "B": "9",
@@ -11907,7 +11907,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "780",
         "exam": "source4",
         "id": 30674,
         "originalQuestionNumber": 14,
@@ -11919,7 +11919,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{1}{16}\\)",
             "B": "\\(\\frac{1}{12}\\)",
@@ -11937,7 +11937,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "40",
             "B": "45",
@@ -11957,7 +11957,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "1 inch",
             "B": "2 inches",
@@ -11976,7 +11976,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "12",
             "B": "24",
@@ -11995,7 +11995,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "(3, 4)",
         "exam": "source3",
         "id": 30679,
         "originalQuestionNumber": 16,
@@ -12007,7 +12007,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "110 degrees",
             "B": "115 degrees",
@@ -12027,7 +12027,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(x = 6\\)",
             "B": "\\(x < 3\\)",
@@ -12046,7 +12046,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1",
             "B": "6",
@@ -12064,7 +12064,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "0",
             "B": "\\(\\frac{1}{5}\\)",
@@ -12083,7 +12083,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "The last person in line is a girl.",
             "B": "The last person in line is a boy.",
@@ -12102,7 +12102,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "6",
             "B": "3",
@@ -12121,7 +12121,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{22}{3}\\)",
         "exam": "source4",
         "id": 30686,
         "originalQuestionNumber": 9,
@@ -12133,7 +12133,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "9",
         "exam": "source3",
         "id": 30687,
         "originalQuestionNumber": 24,
@@ -12145,7 +12145,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "None",
             "B": "II only",
@@ -12164,7 +12164,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-4\\)",
             "B": "2",
@@ -12183,7 +12183,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "15",
             "B": "26",
@@ -12203,7 +12203,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "8",
             "B": "12",
@@ -12222,7 +12222,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\((3, -1)\\)",
             "B": "\\((12, 3)\\)",
@@ -12241,7 +12241,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "132",
         "exam": "source4",
         "id": 30693,
         "originalQuestionNumber": 16,
@@ -12253,7 +12253,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "4",
             "B": "6",
@@ -12272,7 +12272,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "32",
             "B": "24",
@@ -12291,7 +12291,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "4",
             "B": "6",
@@ -12311,7 +12311,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "6",
             "B": "8",
@@ -12331,7 +12331,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(\\frac{5}{8}\\)",
             "B": "\\(\\frac{11}{36}\\)",
@@ -12350,7 +12350,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(y^{\\frac{1}{12}}\\)",
             "B": "\\(y^{\\frac{1}{7}}\\)",
@@ -12369,7 +12369,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(x < 3\\)",
             "B": "\\(x < 16\\)",
@@ -12388,7 +12388,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "1",
             "B": "2",
@@ -12407,7 +12407,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(8\\pi\\)",
             "B": "\\(9\\pi\\)",
@@ -12427,7 +12427,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "35",
         "diagramRef": "diagram822.png",
         "exam": "source4",
         "id": 30703,
@@ -12440,7 +12440,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "33",
             "B": "34",
@@ -12459,7 +12459,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "120",
             "B": "110",
@@ -12479,7 +12479,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(5(b + p)\\)",
             "B": "3bp",
@@ -12498,7 +12498,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "4,004.040",
             "B": "4,000.400",
@@ -12517,7 +12517,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "Solid I has the greatest volume.",
             "B": "Solid II has the greatest volume.",
@@ -12537,7 +12537,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "36",
             "B": "72",
@@ -12557,7 +12557,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "24",
             "B": "40",
@@ -12576,7 +12576,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{2}{3}\\)",
             "B": "\\(\\frac{3}{2}\\)",
@@ -12595,7 +12595,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "2",
             "B": "3",
@@ -12614,7 +12614,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "28",
             "B": "32",
@@ -12634,7 +12634,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{3}{4}\\)",
         "diagramRef": "diagram1587.png",
         "exam": "source4",
         "id": 30714,
@@ -12647,7 +12647,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "3 OR 6 OR 9 OR 12",
         "exam": "source3",
         "id": 30715,
         "originalQuestionNumber": 12,
@@ -12659,7 +12659,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "100",
             "B": "150",
@@ -12678,7 +12678,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "400",
             "B": "360",
@@ -12697,7 +12697,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "72",
             "B": "70",
@@ -12717,7 +12717,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{m^2}{2}\\)",
             "B": "2m",
@@ -12736,7 +12736,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "21",
             "B": "27",
@@ -12756,7 +12756,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "Three",
             "B": "Four",
@@ -12775,7 +12775,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "24.75",
             "B": "26",
@@ -12794,7 +12794,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "1 by 1 by 1",
             "B": "1 by 1 by 2",
@@ -12813,7 +12813,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "632",
             "B": "648",
@@ -12832,7 +12832,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "120",
             "B": "140",
@@ -12851,7 +12851,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(16nb\\)",
             "B": "\\(34nb\\)",
@@ -12870,7 +12870,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "3",
             "B": "9",
@@ -12889,7 +12889,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-2 \\leq x < 1\\) or \\(8 < x \\leq 10\\)",
             "B": "\\(-2 \\leq x < 1\\) or \\(4 < x < 8\\)",
@@ -12907,7 +12907,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "120 pounds",
             "B": "160 pounds",
@@ -12926,7 +12926,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "36",
             "B": "42",
@@ -12945,7 +12945,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "90",
             "B": "\\(112 \\frac{1}{2}\\)",
@@ -12964,7 +12964,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "2",
         "exam": "source4",
         "id": 30732,
         "originalQuestionNumber": 38,
@@ -12976,7 +12976,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{1}{12}\\)",
             "B": "\\(\\frac{1}{6}\\)",
@@ -12995,7 +12995,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{1}{100y(x - 2)} \\%\\)",
             "B": "\\(\\frac{(x - 2)}{100y} \\%\\)",
@@ -13014,7 +13014,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "11",
             "B": "12",
@@ -13033,7 +13033,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "20",
         "diagramRef": "diagram491.png",
         "exam": "source4",
         "id": 30736,
@@ -13046,7 +13046,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "2",
             "B": "3",
@@ -13065,7 +13065,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "14",
         "exam": "source4",
         "id": 30738,
         "originalQuestionNumber": 34,
@@ -13077,7 +13077,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "1",
             "B": "3",
@@ -13096,7 +13096,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\$10",
             "B": "\\$20",
@@ -13115,7 +13115,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\((0, 2)\\)",
             "B": "\\((1, 3)\\)",
@@ -13135,7 +13135,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(z + 1\\)",
             "B": "\\(z + 2\\)",
@@ -13154,7 +13154,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "Three",
             "B": "Four",
@@ -13173,7 +13173,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(15c^2 x\\)",
             "B": "\\(\\frac{x}{15}\\)",
@@ -13192,7 +13192,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{1}{18}\\)",
             "B": "\\(\\frac{1}{9}\\)",
@@ -13211,7 +13211,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "30",
             "B": "35",
@@ -13230,7 +13230,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\$23,950",
             "B": "\\$26,500",
@@ -13248,7 +13248,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(x < -1\\)",
             "B": "\\(-1 < x < 0\\)",
@@ -13267,7 +13267,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(y - z\\)",
             "B": "\\(z - y\\)",
@@ -13287,7 +13287,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{x}{12}\\)",
             "B": "\\(\\frac{x}{4}\\)",
@@ -13306,7 +13306,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "x",
             "B": "\\(\\frac{1}{2} x\\)",
@@ -13325,7 +13325,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(2 + \\sqrt 2 : 4\\)",
             "B": "\\(4: 2 + \\sqrt 2\\)",
@@ -13345,7 +13345,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "3 or 4",
         "exam": "source3",
         "id": 30753,
         "originalQuestionNumber": 19,
@@ -13357,7 +13357,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-5\\)",
             "B": "5",
@@ -13376,7 +13376,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{1}{4}\\)",
             "B": "\\(\\frac{1}{6}\\)",
@@ -13394,7 +13394,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-30\\)",
             "B": "10",
@@ -13413,7 +13413,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(\\frac{10}{5}\\)",
             "B": "\\(\\frac{9}{4}\\)",
@@ -13432,7 +13432,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "24",
             "B": "26",
@@ -13451,7 +13451,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "235",
             "B": "265",
@@ -13471,7 +13471,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "18",
         "exam": "source4",
         "id": 30760,
         "originalQuestionNumber": 9,
@@ -13483,7 +13483,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-1\\)",
             "B": "1",
@@ -13502,7 +13502,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "3",
             "B": "4",
@@ -13521,7 +13521,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(m + 2\\)",
             "B": "\\(m + 3\\)",
@@ -13540,7 +13540,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "500",
             "B": "1000",
@@ -13559,7 +13559,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "36",
         "diagramRef": "diagram777.png",
         "exam": "source4",
         "id": 30765,
@@ -13572,7 +13572,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "2.4",
             "B": "4.8",
@@ -13591,7 +13591,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "50",
             "B": "60",
@@ -13611,7 +13611,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\$.50 \\times 30\\)",
             "B": "\\(\\$1.00 \\times 30\\)",
@@ -13630,7 +13630,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "6",
             "B": "7",
@@ -13649,7 +13649,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "14",
             "B": "18",
@@ -13668,7 +13668,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "9",
             "B": "10",
@@ -13687,7 +13687,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "60",
         "exam": "source3",
         "id": 30772,
         "originalQuestionNumber": 22,
@@ -13699,7 +13699,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "21",
             "B": "28",
@@ -13718,7 +13718,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(3 \\pi\\)",
             "B": "\\(12 \\pi\\)",
@@ -13737,7 +13737,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "7",
             "B": "11",
@@ -13756,7 +13756,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "2",
         "exam": "source3",
         "id": 30776,
         "originalQuestionNumber": 19,
@@ -13768,7 +13768,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "5",
             "B": "8",
@@ -13787,7 +13787,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(2 \\pi + 6\\)",
             "B": "\\(2 \\pi + 9\\)",
@@ -13807,7 +13807,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "a",
             "B": "\\(\\frac{3}{2}a\\)",
@@ -13826,7 +13826,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "4.46",
             "B": "4.48",
@@ -13845,7 +13845,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{1}{8}\\)",
         "exam": "source4",
         "id": 30781,
         "originalQuestionNumber": 11,
@@ -13857,7 +13857,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "13.5",
             "B": "14",
@@ -13875,7 +13875,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{1}{2}\\)",
         "exam": "source3",
         "id": 30783,
         "originalQuestionNumber": 10,
@@ -13887,7 +13887,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "One",
             "B": "Two",
@@ -13906,7 +13906,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "January 2003",
             "B": "July 2004",
@@ -13925,7 +13925,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "1 or 3",
         "exam": "source4",
         "id": 30786,
         "originalQuestionNumber": 15,
@@ -13937,7 +13937,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(3n + 3n^2\\)",
             "B": "\\(9n + 3n^2\\)",
@@ -13956,7 +13956,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "178",
             "B": "179",
@@ -13976,7 +13976,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "rm",
             "B": "\\(\\frac{r}{m}\\)",
@@ -13995,7 +13995,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "100",
         "exam": "source3",
         "id": 30790,
         "originalQuestionNumber": 16,
@@ -14007,7 +14007,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "18",
         "diagramRef": "diagram500.png",
         "exam": "source4",
         "id": 30791,
@@ -14020,7 +14020,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(x^3 y^2\\)",
             "B": "\\(x^{12} y^8\\)",
@@ -14039,7 +14039,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "200",
             "B": "400",
@@ -14057,7 +14057,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "13",
         "exam": "source4",
         "id": 30794,
         "originalQuestionNumber": 15,
@@ -14069,7 +14069,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "5",
         "exam": "source4",
         "id": 30795,
         "originalQuestionNumber": 11,
@@ -14081,7 +14081,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "175",
             "B": "200",
@@ -14100,7 +14100,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "46",
             "B": "70",
@@ -14119,7 +14119,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(5x + 2\\)",
             "B": "\\(3x + 2\\)",
@@ -14138,7 +14138,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "2,500",
             "B": "5,000",
@@ -14156,7 +14156,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "3",
             "B": "9",
@@ -14175,7 +14175,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "128",
             "B": "102",
@@ -14194,7 +14194,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "17",
             "B": "18",
@@ -14213,7 +14213,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "35",
             "B": "113",
@@ -14231,7 +14231,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "2b",
             "B": "\\(b + 2\\)",
@@ -14250,7 +14250,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "65",
             "B": "70",
@@ -14270,7 +14270,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "64",
             "B": "68",
@@ -14289,7 +14289,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "4.0\\%",
             "B": "4.5\\%",
@@ -14308,7 +14308,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\$25",
             "B": "\\$100",
@@ -14327,7 +14327,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "st",
             "B": "\\(\\frac{(s - t)}{2}\\)",
@@ -14346,7 +14346,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "3",
         "exam": "source3",
         "id": 30810,
         "originalQuestionNumber": 12,
@@ -14358,7 +14358,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(r + 1\\)",
             "B": "2r",
@@ -14378,7 +14378,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "160",
             "B": "175",
@@ -14397,7 +14397,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "A card with a letter",
             "B": "A card with a number",
@@ -14415,7 +14415,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "53",
         "exam": "source3",
         "id": 30814,
         "originalQuestionNumber": 25,
@@ -14427,7 +14427,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "22.5",
         "exam": "source4",
         "id": 30815,
         "originalQuestionNumber": 16,
@@ -14439,7 +14439,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "0.2",
         "exam": "source4",
         "id": 30816,
         "originalQuestionNumber": 13,
@@ -14451,7 +14451,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "0.8",
         "exam": "source4",
         "id": 30817,
         "originalQuestionNumber": 15,
@@ -14463,7 +14463,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "32",
             "B": "33",
@@ -14483,7 +14483,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{3}{50}\\)",
             "B": "\\(\\frac{3}{25}\\)",
@@ -14502,7 +14502,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "6",
             "B": "8",
@@ -14521,7 +14521,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "60",
             "B": "70",
@@ -14541,7 +14541,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "100",
         "exam": "source3",
         "id": 30822,
         "originalQuestionNumber": 21,
@@ -14553,7 +14553,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(\\frac{c + r}{3 + 1.1}\\)",
             "B": "\\(\\frac{c}{3} + \\frac{r}{1.1}\\)",
@@ -14572,7 +14572,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\$5,000",
             "B": "\\$4,000",
@@ -14591,7 +14591,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(60 - k\\)",
             "B": "k",
@@ -14611,7 +14611,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "1",
             "B": "3",
@@ -14630,7 +14630,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{1}{4}\\)",
         "exam": "source4",
         "id": 30827,
         "originalQuestionNumber": 18,
@@ -14642,7 +14642,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(\\frac{n}{2}\\)",
             "B": "\\(n + 2\\)",
@@ -14661,7 +14661,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "120",
         "exam": "source3",
         "id": 30829,
         "originalQuestionNumber": 18,
@@ -14673,7 +14673,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(-24\\)",
             "B": "\\(-8\\)",
@@ -14692,7 +14692,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{p + r}{5}\\)",
             "B": "\\(5p + r\\)",
@@ -14711,7 +14711,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(-1\\)",
             "B": "0",
@@ -14730,7 +14730,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "80",
         "exam": "source4",
         "id": 30833,
         "originalQuestionNumber": 9,
@@ -14742,7 +14742,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(5x + 4\\)",
             "B": "\\(5x + 8\\)",
@@ -14761,7 +14761,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "25",
             "B": "30",
@@ -14781,7 +14781,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(y = 100 - x^2\\)",
             "B": "\\(y = 100 - x\\)",
@@ -14799,7 +14799,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "II only",
             "B": "I and II only",
@@ -14819,7 +14819,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "20",
             "B": "120",
@@ -14838,7 +14838,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(1 : 2\\pi\\)",
             "B": "\\(1 : \\pi\\)",
@@ -14857,7 +14857,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{5}{8}\\)",
         "diagramRef": "diagram1319.png",
         "exam": "source3",
         "id": 30840,
@@ -14870,7 +14870,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "2y",
             "B": "\\(y\\sqrt 6\\)",
@@ -14889,7 +14889,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(-6\\)",
             "B": "\\(-2\\)",
@@ -14908,7 +14908,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "200",
         "exam": "source3",
         "id": 30843,
         "originalQuestionNumber": 10,
@@ -14920,7 +14920,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "1 to 4",
             "B": "3 to 4",
@@ -14939,7 +14939,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "(1,4) only",
             "B": "(3,1) only",
@@ -14958,7 +14958,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{3}{4}\\)",
             "B": "\\(\\frac{3}{2}\\)",
@@ -14977,7 +14977,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "462",
         "exam": "source3",
         "id": 30847,
         "originalQuestionNumber": 17,
@@ -14989,7 +14989,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "12",
             "B": "11",
@@ -15006,7 +15006,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "diagram1489.png",
             "B": "diagram954.png",
@@ -15023,7 +15023,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-20\\)",
             "B": "\\(-4\\)",
@@ -15042,7 +15042,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "1",
             "B": "2",
@@ -15061,7 +15061,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "None",
             "B": "One",
@@ -15079,7 +15079,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "0",
             "B": "1",
@@ -15098,7 +15098,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "8",
             "B": "12",
@@ -15118,7 +15118,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\frac{m}{12}\\)",
             "B": "\\(\\frac{m}{6}\\)",
@@ -15137,7 +15137,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "6",
         "exam": "source4",
         "id": 30856,
         "originalQuestionNumber": 15,
@@ -15149,7 +15149,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{1}{9}\\)",
             "B": "\\(\\frac{2}{9}\\)",
@@ -15167,7 +15167,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "800",
             "B": "8,000",
@@ -15186,7 +15186,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "12",
         "exam": "source3",
         "id": 30859,
         "originalQuestionNumber": 9,
@@ -15198,7 +15198,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(6\\pi\\)",
             "B": "\\(8\\pi\\)",
@@ -15218,7 +15218,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(z - y\\)",
             "B": "\\(z + y\\)",
@@ -15238,7 +15238,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{1}{3}\\)",
         "diagramRef": "diagram37.png",
         "exam": "source3",
         "id": 30862,
@@ -15249,7 +15249,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "24",
             "B": "28",
@@ -15269,7 +15269,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "6, 4, 2",
             "B": "9, 6, 9",
@@ -15288,7 +15288,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "24 minutes",
             "B": "36 minutes",
@@ -15307,7 +15307,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(-3\\)",
             "B": "\\(-\\frac{4}{3}\\)",
@@ -15325,7 +15325,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "15 degrees",
             "B": "30 degrees",
@@ -15345,7 +15345,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "None",
             "B": "II only",
@@ -15364,7 +15364,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(-18\\)",
             "B": "\\(-11\\)",
@@ -15383,7 +15383,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(x \\geq -4\\)",
             "B": "\\(x > -4\\)",
@@ -15402,7 +15402,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "144",
         "diagramRef": "diagram154.png",
         "exam": "source3",
         "id": 30871,
@@ -15415,7 +15415,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "40",
             "B": "70",
@@ -15435,7 +15435,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-10\\)",
             "B": "\\(-5\\)",
@@ -15454,7 +15454,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "20",
             "B": "30",
@@ -15473,7 +15473,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "2",
             "B": "4",
@@ -15492,7 +15492,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "diagram1368.png",
             "B": "diagram549.png",
@@ -15510,7 +15510,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "8",
             "B": "9",
@@ -15529,7 +15529,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\((-4, -2)\\)",
             "B": "\\((-1, 1)\\)",
@@ -15548,7 +15548,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "1.5",
             "B": "2",
@@ -15567,7 +15567,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "24",
             "B": "40",
@@ -15586,7 +15586,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "20\\%",
             "B": "30\\%",
@@ -15605,7 +15605,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(-3\\)",
             "B": "\\(-1\\)",
@@ -15624,7 +15624,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "6",
             "B": "5",
@@ -15643,7 +15643,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "25,600",
             "B": "6,400",
@@ -15662,7 +15662,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(-32\\)",
             "B": "\\(-16\\)",
@@ -15681,7 +15681,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "12",
             "B": "17",
@@ -15700,7 +15700,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(-x\\)",
             "B": "\\(\\frac{1}{x}\\)",
@@ -15719,7 +15719,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "18",
             "B": "22.5",
@@ -15739,7 +15739,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "45 degrees",
             "B": "60 degrees",
@@ -15759,7 +15759,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "750",
         "exam": "source4",
         "id": 30890,
         "originalQuestionNumber": 15,
@@ -15771,7 +15771,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "3 feet",
             "B": "15 feet",
@@ -15789,7 +15789,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(ab + 1\\)",
             "B": "\\(a^2 + 3\\)",
@@ -15808,7 +15808,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "10",
             "B": "24",
@@ -15827,7 +15827,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "exam": "source4",
         "id": 30894,
         "originalQuestionNumber": 2,
@@ -15839,7 +15839,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "5",
             "B": "6",
@@ -15858,7 +15858,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "a",
             "B": "b",
@@ -15878,7 +15878,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "January and February",
             "B": "February and March",
@@ -15896,7 +15896,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "1,000",
             "B": "2,000",
@@ -15914,7 +15914,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(-25\\)",
             "B": "\\(-5\\)",
@@ -15933,7 +15933,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\((2x)^{2y}\\)",
             "B": "\\(2^y(x^3 - x^y)\\)",
@@ -15952,7 +15952,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "40",
             "B": "45",
@@ -15972,7 +15972,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "8",
             "B": "10",
@@ -15991,7 +15991,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(r^{\\frac{1}{24}}\\)",
             "B": "\\(r^{\\frac{1}{10}}\\)",
@@ -16010,7 +16010,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "a",
             "B": "\\(\\frac{(h + d)}{2}\\)",
@@ -16030,7 +16030,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "33",
             "B": "34",
@@ -16049,7 +16049,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "20",
             "B": "25",
@@ -16068,7 +16068,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "2",
             "B": "4",
@@ -16087,7 +16087,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "54",
             "B": "56",
@@ -16107,7 +16107,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "0.80d",
             "B": "0.84d",
@@ -16126,7 +16126,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1",
             "B": "3",
@@ -16145,7 +16145,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(10m - 9p\\)",
             "B": "\\(9m - 10p\\)",
@@ -16164,7 +16164,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(\\frac{1}{100r(q + 1)}\\)\\%",
             "B": "\\(\\frac{q + 1}{100r}\\)\\%",
@@ -16183,7 +16183,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\bigtriangledown 2\\)",
             "B": "\\(\\bigtriangledown 3\\)",
@@ -16202,7 +16202,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "A",
             "B": "B",
@@ -16222,7 +16222,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(36 - 9\\pi\\)",
             "B": "\\(36 - 36\\pi\\)",
@@ -16242,7 +16242,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "30\\%",
             "B": "55\\%",
@@ -16260,7 +16260,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "27",
         "exam": "source4",
         "id": 30917,
         "originalQuestionNumber": 17,
@@ -16272,7 +16272,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(-1\\)",
             "B": "\\(-\\frac{1}{2}\\)",
@@ -16292,7 +16292,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "All real numbers except 0",
             "B": "0 only",
@@ -16311,7 +16311,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "100y",
             "B": "\\(y^2\\)",
@@ -16330,7 +16330,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "0.125",
             "B": "0.25",
@@ -16349,7 +16349,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(6 \\sqrt 3\\)",
             "B": "\\(6 \\sqrt 2\\)",
@@ -16369,7 +16369,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{5}{2}\\)",
         "exam": "source3",
         "id": 30923,
         "originalQuestionNumber": 18,
@@ -16381,7 +16381,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(-3a + b\\)",
             "B": "\\(-(a - b)\\)",
@@ -16400,7 +16400,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "9",
         "diagramRef": "diagram1402.png",
         "exam": "source3",
         "id": 30925,
@@ -16411,7 +16411,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "1",
             "B": "2",
@@ -16430,7 +16430,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(-\\frac{r}{s}\\)",
             "B": "\\(\\frac{r}{s}\\)",
@@ -16450,7 +16450,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "24",
         "exam": "source3",
         "id": 30928,
         "originalQuestionNumber": 12,
@@ -16462,7 +16462,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "3",
         "exam": "source3",
         "id": 30929,
         "originalQuestionNumber": 17,
@@ -16474,7 +16474,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "580",
         "exam": "source4",
         "id": 30930,
         "originalQuestionNumber": 16,
@@ -16486,7 +16486,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{1}{30}\\)",
             "B": "\\(\\frac{1}{15}\\)",
@@ -16505,7 +16505,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "39",
             "B": "61",
@@ -16525,7 +16525,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "700",
         "exam": "source3",
         "id": 30933,
         "originalQuestionNumber": 17,
@@ -16537,7 +16537,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -16556,7 +16556,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(-21\\)",
             "B": "\\(-13\\)",
@@ -16574,7 +16574,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "45",
             "B": "54",
@@ -16593,7 +16593,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "42",
         "diagramRef": "diagram11.png",
         "exam": "source4",
         "id": 30937,
@@ -16604,7 +16604,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "15,000",
             "B": "30,000",
@@ -16623,7 +16623,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "16",
             "B": "32",
@@ -16642,7 +16642,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "3b",
             "B": "\\(a + 3\\)",
@@ -16661,7 +16661,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "30",
             "B": "40",
@@ -16681,7 +16681,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "2a",
             "B": "4",
@@ -16700,7 +16700,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "12",
             "B": "10",
@@ -16719,7 +16719,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\$0.03x",
             "B": "\\$0.07x",
@@ -16738,7 +16738,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "2",
         "exam": "source3",
         "id": 30945,
         "originalQuestionNumber": 17,
@@ -16750,7 +16750,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "15",
             "B": "24",
@@ -16769,7 +16769,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "5",
         "exam": "source4",
         "id": 30947,
         "originalQuestionNumber": 16,
@@ -16781,7 +16781,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "80",
             "B": "60",
@@ -16801,7 +16801,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "48",
             "B": "30",
@@ -16820,7 +16820,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "48",
         "exam": "source4",
         "id": 30950,
         "originalQuestionNumber": 14,
@@ -16832,7 +16832,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "3",
             "B": "9",
@@ -16851,7 +16851,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "20 degrees",
             "B": "30 degrees",
@@ -16870,7 +16870,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "90",
             "B": "100",
@@ -16888,7 +16888,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "4",
         "exam": "source4",
         "id": 30954,
         "originalQuestionNumber": 10,
@@ -16900,7 +16900,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "1.5",
         "diagramRef": "diagram1176.png",
         "exam": "source4",
         "id": 30955,
@@ -16911,7 +16911,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(y = 0\\)",
             "B": "\\(z = 0\\)",
@@ -16930,7 +16930,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "3,000",
             "B": "4,000",
@@ -16948,7 +16948,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1",
             "B": "2",
@@ -16967,7 +16967,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "2",
             "B": "5",
@@ -16986,7 +16986,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "410",
         "exam": "source3",
         "id": 30960,
         "originalQuestionNumber": 19,
@@ -16998,7 +16998,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(\\frac{b^{10}c^8}{2}\\)",
             "B": "\\(b^5 c^8\\)",
@@ -17017,7 +17017,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "9.0",
             "B": "10.5",
@@ -17036,7 +17036,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "None",
             "B": "I only",
@@ -17055,7 +17055,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "I only",
             "B": "III only",
@@ -17074,7 +17074,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "2491",
         "exam": "source3",
         "id": 30965,
         "originalQuestionNumber": 17,
@@ -17086,7 +17086,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "28",
             "B": "29",
@@ -17105,7 +17105,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1",
             "B": "4",
@@ -17124,7 +17124,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "4",
             "B": "5",
@@ -17143,7 +17143,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "35",
             "B": "40",
@@ -17163,7 +17163,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "54",
             "B": "72",
@@ -17183,7 +17183,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "119",
             "B": "121",
@@ -17203,7 +17203,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1997",
             "B": "1998",
@@ -17221,7 +17221,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "diagram1165.png",
             "B": "diagram1652.png",
@@ -17239,7 +17239,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "14",
             "B": "16",
@@ -17258,7 +17258,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "9",
         "exam": "source3",
         "id": 30975,
         "originalQuestionNumber": 10,
@@ -17270,7 +17270,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "5",
         "exam": "source3",
         "id": 30976,
         "originalQuestionNumber": 22,
@@ -17282,7 +17282,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "106",
         "exam": "source4",
         "id": 30977,
         "originalQuestionNumber": 15,
@@ -17294,7 +17294,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "30",
             "B": "36",
@@ -17314,7 +17314,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "80",
             "B": "60",
@@ -17334,7 +17334,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "2",
             "B": "4",
@@ -17354,7 +17354,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "32",
         "diagramRef": "diagram358.png",
         "exam": "source4",
         "id": 30981,
@@ -17367,7 +17367,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "2w",
             "B": "4w",
@@ -17386,7 +17386,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(8 - 2\\pi\\)",
             "B": "\\(8 - \\pi\\)",
@@ -17406,7 +17406,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "1",
             "B": "0",
@@ -17425,7 +17425,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "1",
             "B": "2",
@@ -17444,7 +17444,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "45",
             "B": "50",
@@ -17464,7 +17464,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "5",
             "B": "6",
@@ -17482,7 +17482,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{5}{9}\\)",
         "exam": "source3",
         "id": 30988,
         "originalQuestionNumber": 16,
@@ -17494,7 +17494,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "140",
         "exam": "source4",
         "id": 30989,
         "originalQuestionNumber": 12,
@@ -17506,7 +17506,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(x + 81 = 59\\)",
             "B": "\\(x - 81 = 59\\)",
@@ -17525,7 +17525,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "7",
             "B": "\\(7 \\sqrt 2\\)",
@@ -17545,7 +17545,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "48",
             "B": "54",
@@ -17564,7 +17564,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -17583,7 +17583,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -17602,7 +17602,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "24",
             "B": "26",
@@ -17621,7 +17621,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "18",
         "exam": "source4",
         "id": 30996,
         "originalQuestionNumber": 13,
@@ -17633,7 +17633,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "1",
             "B": "2",
@@ -17652,7 +17652,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "eight",
             "B": "seven",
@@ -17671,7 +17671,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(d < b < c < a\\)",
             "B": "\\(d < c < a < b\\)",
@@ -17690,7 +17690,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(f(x) = \\frac{3}{2}x + 4\\)",
             "B": "\\(f(x) = -\\frac{2}{3}x - 3\\)",
@@ -17708,7 +17708,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "109",
         "exam": "source4",
         "id": 31001,
         "originalQuestionNumber": 17,
@@ -17720,7 +17720,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{5}{6}\\)",
         "diagramRef": "diagram667.png",
         "exam": "source4",
         "id": 31002,
@@ -17733,7 +17733,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "28",
             "B": "29",
@@ -17752,7 +17752,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "30",
             "B": "40",
@@ -17771,7 +17771,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1",
             "B": "9",
@@ -17790,7 +17790,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "5",
         "diagramRef": "diagram843.png",
         "exam": "source3",
         "id": 31006,
@@ -17801,7 +17801,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "900",
             "B": "600",
@@ -17820,7 +17820,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "a",
             "B": "2a",
@@ -17839,7 +17839,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "1\\%",
             "B": "4\\%",
@@ -17858,7 +17858,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "6 to 1",
             "B": "8 to 5",
@@ -17877,7 +17877,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1",
             "B": "2",
@@ -17896,7 +17896,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(k^2 - 4\\)",
             "B": "\\(k^2 + 4k - 5\\)",
@@ -17915,7 +17915,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "6",
             "B": "4",
@@ -17934,7 +17934,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "Add 4 to the preceding number.",
             "B": "Take \\(\\frac{1}{2}\\) of the preceding number and then add 7 to that result.",
@@ -17953,7 +17953,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "1",
             "B": "2",
@@ -17972,7 +17972,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "37.5",
         "diagramRef": "diagram1626.png",
         "exam": "source4",
         "id": 31016,
@@ -17985,7 +17985,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "4",
             "B": "5",
@@ -18004,7 +18004,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "2",
             "B": "4",
@@ -18023,7 +18023,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "33",
             "B": "34",
@@ -18042,7 +18042,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "1.5",
             "B": "1.75",
@@ -18061,7 +18061,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(\\frac{5}{h}\\)",
             "B": "8h",
@@ -18080,7 +18080,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "3",
             "B": "4",
@@ -18099,7 +18099,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "23",
             "B": "25",
@@ -18118,7 +18118,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "9",
             "B": "8",
@@ -18136,7 +18136,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "20",
         "exam": "source4",
         "id": 31025,
         "originalQuestionNumber": 11,
@@ -18148,7 +18148,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(-9\\%\\)",
             "B": "\\(-1\\%\\)",
@@ -18167,7 +18167,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{1}{2}\\)",
             "B": "\\(-\\frac{2}{5}\\)",
@@ -18186,7 +18186,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(-24\\)",
             "B": "\\(-12\\)",
@@ -18205,7 +18205,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "30",
             "B": "60",
@@ -18225,7 +18225,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "(0, 1)",
         "exam": "source4",
         "id": 31030,
         "originalQuestionNumber": 10,
@@ -18237,7 +18237,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(x < -3\\)",
             "B": "\\(x < -2.5\\)",
@@ -18256,7 +18256,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "May",
             "B": "June",
@@ -18274,7 +18274,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "10",
             "B": "8",
@@ -18294,7 +18294,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "1024",
         "exam": "source3",
         "id": 31034,
         "originalQuestionNumber": 15,
@@ -18306,7 +18306,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{3}{7}\\)",
             "B": "\\(\\frac{13}{28}\\)",
@@ -18325,7 +18325,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "Monday",
             "B": "Tuesday",
@@ -18343,7 +18343,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(y = 5x + 7.5\\)",
             "B": "\\(y = 5.5x + 2\\)",
@@ -18361,7 +18361,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "y is directly proportional to x.",
             "B": "y is inversely proportional to x.",
@@ -18379,7 +18379,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "10",
             "B": "11",
@@ -18398,7 +18398,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "A",
             "B": "B",
@@ -18416,7 +18416,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(\\frac{d}{5x}\\)",
             "B": "\\(\\frac{x}{5d}\\)",
@@ -18435,7 +18435,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(\\sqrt{n -4}\\)",
             "B": "\\(\\sqrt{n -2}\\)",
@@ -18455,7 +18455,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -18474,7 +18474,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{3}{2}\\)",
         "exam": "source3",
         "id": 31044,
         "originalQuestionNumber": 16,
@@ -18486,7 +18486,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(\\frac{x}{p}\\)",
             "B": "\\(\\frac{x}{k + p}\\)",
@@ -18505,7 +18505,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(\\frac{3}{8}\\)",
             "B": "\\(\\frac{4}{3}\\)",
@@ -18524,7 +18524,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "\\(\\frac{1}{5}\\)",
             "B": "2",
@@ -18543,7 +18543,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(k + n + r\\)",
             "B": "\\(k + p + s\\)",
@@ -18563,7 +18563,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "100",
         "exam": "source4",
         "id": 31049,
         "originalQuestionNumber": 17,
@@ -18575,7 +18575,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\((100^3)^4\\)",
             "B": "\\((100^5)(100^6)\\)",
@@ -18594,7 +18594,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(y = x^3 + 3\\)",
             "B": "\\(y = 3x + 3\\)",
@@ -18612,7 +18612,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "750",
         "exam": "source4",
         "id": 31052,
         "originalQuestionNumber": 10,
@@ -18624,7 +18624,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "20",
             "B": "21",
@@ -18643,7 +18643,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "\\(4(x + 3) - \\frac{6}{5}\\)",
             "B": "\\(\\frac{4(x + 3)}{5} -6\\)",
@@ -18662,7 +18662,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "\\(\\frac{5}{9}\\)",
         "diagramRef": "diagram1407.png",
         "exam": "source4",
         "id": 31055,
@@ -18675,7 +18675,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "\\(36 \\sqrt 3 - 12\\pi\\)",
             "B": "\\(36 \\sqrt 2 - 12 \\pi\\)",
@@ -18695,7 +18695,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "100",
             "B": "90",
@@ -18715,7 +18715,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "225",
         "exam": "source4",
         "id": 31058,
         "originalQuestionNumber": 18,
@@ -18727,7 +18727,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "5",
             "B": "6",
@@ -18746,7 +18746,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "242",
             "B": "266",
@@ -18765,7 +18765,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -18783,7 +18783,7 @@
         "tags": []
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "29",
             "B": "34",
@@ -18802,7 +18802,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "54",
         "exam": "source4",
         "id": 31063,
         "originalQuestionNumber": 30,
@@ -18814,7 +18814,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(\\frac{10}{3}\\)",
             "B": "\\(\\frac{40}{3}\\)",
@@ -18833,7 +18833,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "2",
             "B": "4",
@@ -18853,7 +18853,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "127",
             "B": "132",
@@ -18872,7 +18872,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "\\(r^3\\)",
             "B": "\\(2r^3\\)",
@@ -18891,7 +18891,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -18910,7 +18910,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -18929,7 +18929,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "68",
             "B": "70",
@@ -18948,7 +18948,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "If Fred cannot swim, then he is not Kay's brother.",
             "B": "If Dave can swim, then he is not Kay's brother.",
@@ -18967,7 +18967,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "\\(\\frac{1}{3}\\)",
             "B": "\\(\\frac{1}{2}\\)",
@@ -18986,7 +18986,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "B",
         "choices": {
             "A": "The height of half of the female students is 165 centimeters.",
             "B": "The most frequently occurring height of the female students is 162 centimeters.",
@@ -19005,7 +19005,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "8",
             "B": "12",
@@ -19024,7 +19024,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "33",
         "exam": "source4",
         "id": 31075,
         "originalQuestionNumber": 10,
@@ -19036,7 +19036,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "C",
         "choices": {
             "A": "2",
             "B": "3",
@@ -19055,7 +19055,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "40",
             "B": "125",
@@ -19075,7 +19075,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "I only",
             "B": "II only",
@@ -19094,7 +19094,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "E",
         "choices": {
             "A": "3",
             "B": "6",
@@ -19113,7 +19113,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "D",
         "choices": {
             "A": "1",
             "B": "2",
@@ -19132,7 +19132,7 @@
         ]
     },
     {
-        "answer": "",
+        "answer": "A",
         "choices": {
             "A": "5",
             "B": "6",
