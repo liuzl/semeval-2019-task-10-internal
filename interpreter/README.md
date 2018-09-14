@@ -1,4 +1,4 @@
-# Getting Started with the Logical Interpreter for SemEval 2019, Task 10
+# Getting Started with the _Logical Form Interpreter_ for SemEval 2019, Task 10
 
 We provide a python script (`run_interpreter.py`) to run the interpreter on a list of logical forms.
 The command to run the script is as follows:  
@@ -57,3 +57,7 @@ Given this input file, the output file (`responses_ex.json`) should contain:
     }
 ]
 ```
+
+NOTE: You need to install and run `Docker` before running the _Logical Form Interpreter_.
+For more information, please visit: [https://www.docker.com/get-started](https://www.docker.com/get-started).
+

@@ -3,7 +3,7 @@ import subprocess
 import os
 import json
 
-dockerImg = "gcr.io/ai2-general/euclid-build:8e3997c8e74ef516f27aa64346b96d63"
+dockerImg = "allenai/semeval-2019-task-10:1.0"
 batchSize = 10
 
 def getDirName(path):
@@ -28,6 +28,10 @@ def main(inputFile, outputFile):
     responses = []
     with open(tmpOutputFile, 'w') as output:
         json.dump(responses, output)
+
+    # Pull the docker image
+    pullCmd = r"""docker pull {0}""".format(dockerImg)
+    subprocess.call(pullCmd, shell=True)
 
     batch = 1
     while remainingPrograms:
